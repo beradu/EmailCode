@@ -1,0 +1,2788 @@
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml"><head>
+<title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+
+
+<style type="text/css">
+		body {
+			margmgn: 0;
+			padding: 0;
+		}
+
+		table,
+		td,
+		tr {
+			vertical-align: top;
+			border-collapse: collapse;
+		} 
+
+		* {
+			line-height: inherit;
+		}
+		
+		a {
+			color: #094273 !important;
+			text-decoration: none !important;
+			font-weight: 700 !important;
+		}
+		
+		a[x-apple-data-detectors] {
+			color: inherit !important;
+            text-decoration: none !important;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important;
+		}
+		
+		#body [x-apple-data-detectors=true] a,
+		a[x-apple-data-detectors=true],
+		#root [x-apple-data-detectors-type="calendar-event"]{
+		color: #363636 !important;
+		-webkit-text-decoration-color: inherit !important;
+		text-decoration: inherit !important;
+		}
+		
+		.gmail-fix {
+			width: 100% !important;
+			min-width: 100% !important;
+			height: auto !important;
+		}
+
+		@media (max-width: 660px) {
+
+			.block-grid,
+			.col {
+				min-width: 320px !important;
+				max-width: 100% !important;
+				display: block !important;
+			}
+
+			.block-grid {
+				width: 100% !important;
+			}
+
+			.col {
+				width: 100% !important;
+			}
+
+			.col_cont {
+				margin: 0 auto;
+			}
+
+			img.fullwidth,
+			img.fullwidthOnMobile {
+				width: 100% !important;
+			}
+
+			.no-stack .col {
+				min-width: 0 !important;
+				display: table-cell !important;
+			}
+
+		}
+		
+		
+	/* Responsive styles */
+	@media screen and (max-width: 600px) {
+		.mobile { 
+			width: 100% !important;
+			}
+		.block { 
+			width: 100% !important; 
+		}
+
+	}
+
+
+
+  @media (prefers-color-scheme: dark) {
+    h1.header span {
+      background: transparent !important;
+      color: #FFDB00 !important;
+    }
+  }
+
+
+      @media only screen and (max-width: 580px) {
+
+    h1.header.mobile {
+      font-size: 50px !important;
+      line-height: 70px !important;
+      padding-top: 20px;
+    }
+
+    table.nl-container {
+      table-layout: auto !important;
+    }
+    
+    .mobile-button {
+    	padding: 10px 0 !important;
+    	width: 150px !important;
+    }
+	.mobile-header {
+		padding: 0 0 0 30px !important;
+		margin: 1px 0 !important;
+		font-size:34px !important;
+	}
+	.mobile-padding {
+		padding: 0 !important;
+	}
+
+  }
+
+</style>
+
+<style>
+ /*targets outlook mobile ios and android only*/
+  @media only screen and (max-width: 580px) {
+.header\0 {
+      font-size: 60px !important;
+      line-height: 64px !important;
+}
+
+.mobile-header\0 {
+	font-size:36px !important;
+}
+.mobile-header\0 {
+	width: 340px !important;
+}
+.mobile-button\0 {
+	width:175px !important;
+}
+
+.mobile-padding\0 {
+	padding: 0 15px !important;
+	}
+.hide\0 {
+		display: none !important;
+	}
+}
+
+.yellowText\0 {
+	 background: transparent;
+      color: #FFDB00;
+}
+	#root [x-apple-data-detectors-type="calendar-event"]\0 {
+		color: inherit !important;
+		-webkit-text-decoration-color: inherit !important;
+		text-decoration: none !important;
+		}
+
+
+</style>
+
+<!-- START force fallback on Yahoo -->
+<style>
+
+.& .header {
+	color: black !important;
+	font-family: futura,helvetica, system-ui !important; 
+	font-weight:800;
+}
+
+.& .yellowText {
+	color: #ffdb00 !important;
+	padding: 1px;
+	}
+
+.& .button {
+	color: black !important;
+	font-family: futura,helvetica, system-ui; 
+	}
+.& .mobile-header {
+	color: black !important;
+	font-family: futura, helvetica, system-ui; 
+}
+		
+</style>
+<!-- END force fallback on Yahoo -->
+
+
+<!--[if mso]>
+    <style>
+   /* Outlook-specific CSS goes here. */
+        .show-outlook  {
+         display: block !important
+        }
+        
+        .hide-outlook {
+        	display:  none !important; 
+        }
+    </style>
+<![endif]-->
+</head>
+  
+<body style="margin:0;padding:0" class="__visual-email-editor-body" data-new-gr-c-s-loaded="14.1094.0" data-new-gr-c-s-check-loaded="14.1094.0" data-gr-ext-installed="">
+<center> 
+ <!-- ~~~~~~~~~~Table Parent Container Begins ~~~~~~~ -->
+   <table cellspacing="0" role="presentation" cellpadding="0" border="0" width="100%" style="margin:0; padding:0; width:640px" align="center" class="mobile mobile-full-table">
+  <tbody><tr>
+    <td>
+      <center>
+     <table cellspacing="0" role="presentation" cellpadding="0" border="0" width="640" align="center">    	
+      	<tbody><tr><td>
+     <!-- ~~~~~~~~~~   TROUBLE VIEWING EMAIL? VIEW IN BROWSER BLURB BEGINS ~~~~~~~~~~~~~~~~  -->    
+  <!--[if (mso)|(IE)]>
+  <table width="100%" role="presentation" cellpadding="0" cellspacing="0" border="0">
+  <tr><td align="center" style="background-color:#FFFFFF">
+  <![endif]-->
+ <div style="background-color:transparent;">
+			<div class="block-grid " style="min-width: 320px; max-width: 640px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; Margin: 0 auto; background-color: #ffffff;">
+				<div style="border-collapse: collapse;display: table;width: 100%;background-color:#ffffff;">
+						<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:640px"><tr class="layout-full-width" style="background-color:#ffffff"><![endif]-->
+						<!--[if (mso)|(IE)]><td align="center" width="640" style="background-color:#ffffff;width:640px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:5px;"><![endif]-->
+					<div class="col num12" style="min-width: 320px; max-width: 640px; display: table-cell; vertical-align: top; width: 640px;">
+						<div class="col_cont" style="width:100% !important;">
+							<!--[if (!mso)&(!IE)]><!-->
+						<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;">
+							<!--<![endif]-->
+						<div style="font-size:16px;text-align:center;font-family:Helvetica Neue, Helvetica, Arial, sans-serif">
+							</div>
+						<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
+						<td style="padding-right: 15px; padding-left: 15px; padding-top: 15px; padding-bottom: 15px; font-family: Arial, sans-serif">
+						<![endif]-->
+						<div style="color:#363636;font-family:Helvetica Neue, Helvetica, Arial, sans-serif;line-height:1.2;padding-top:15px;padding-right:15px;padding-bottom:15px;padding-left:15px;">
+						<div class="txtTinyMce-wrapper" style="font-size: 14px; line-height: 1.2; color: #363636; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; mso-line-height-alt: 17px;">
+					<p style="margin: 0; font-size: 12px; line-height: 1.2; word-break: break-word; text-align: center; mso-line-height-alt: 14px; margin-top: 0; margin-bottom: 0;">
+						<span style="font-size: 12px;">Trouble viewing this email? 
+						<a href=" " target="_blank" style="color: #094273; font-weight: 700;" rel="noopener">View in browser.</a>&nbsp;</span></p>
+							</div>
+							</div>
+							<!--[if mso]></td></tr></table><![endif]-->
+						<!--[if (!mso)&(!IE)]><!-->
+							</div>
+						<!--<![endif]-->
+							</div>
+						</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+      	     <!-- ~~~~~~~~~~   TROUBLE VIEWING EMAIL? VIEW IN BROWSER BLURB ENDS  ~~~~~~~~~~~~~~~~  -->    
+      	
+    
+
+  <!--  ~~~~~~~~   Heading Block with highlighted yellow Begins ~~~~~~~~~~ -->	
+  <table cellspacing="0" role="presentation" cellpadding="0" border="0" width="600" style="margin:0; padding:0; width:600px" align="center" class="mobile-full-table hide-outlook">
+  <tbody><tr>
+    <td>
+     <!-- This if statement below is telling outlook to ignore all the code below which is the heading text.   -->	
+     <!--This code will be visible to ALL EMAIL clients that are not outlook -->
+    <!--[if !mso]><!-->  
+      <center>
+        <h1 class="header mobile hide-outlook" style="font-family:Futura, Century Gothic, Corbel, Helvetica, 'Arial Black', sans‑serif !important; font-size:60px; color:#363636; margin:0 auto !important; text-align:center; line-height:78px">
+        Your trip details
+		  <br>have
+          <span class="yellowText" style="background: linear-gradient(to top,#ffdb00 30px,transparent 30px); display:inline; background-color: #ffdb0;line-height:40px;">
+		  changed.</span>
+        </h1>
+        </center>
+    <!--<![endif]-->    
+      
+     <!-- CODE SHOWN ONLY TO OUTLOOK EMAIL CLIENTS BEGINS  -->
+    <div class="show-outlook img-container center autowidth" align="center" style="padding-right: 0px;padding-left: 0px;">
+    <!--[if mso]>
+    <table width="100%" cellpadding="0" cellspacing="0" border="0">
+    <tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center">
+    <![endif]-->
+   <center>
+      <!-- Image Tag class, change "src" to the image url you would like to use. This image will ONLY show on outlook  -->   
+    <img class="center autowidth" align="center" border="0" src="https://storage.googleapis.com/us1-app-storage/91953024-a777-11eb-9054-7a74f13130f5/media/original/271c1f22-10fa-11ec-9b75-eed44223fbff" alt="Header that says your trip details have changed  " style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 400px; max-width: 100%; display: none;" width="400">
+    </center>
+    
+    <!--[if mso]></td></tr></table><![endif]-->
+         <!-- CODE SHOWN ONLY TO OUTLOOK EMAIL CLIENTS ENDS  -->
+	</div>
+       <!-- To increase the spacing/padding situation at the BOTTOM of heading block increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:40px">&nbsp;</div>
+
+     </td> 
+   </tr> 
+   </tbody></table> 
+     <!-- ~~~~~~~~~~Heading Block with highlighted yellow ENDS ~~~~~~~~~~~~~~ -->	
+
+
+      <!-- ~~~~~~~~~~   0 Height  IMAGE Container Begins - this forces gmail to renders desktop sized emails on mobile - DO NOT REMOVE    ~~~~~~~~~~~~~~~~  -->     
+
+<table cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+    <td height="1" class="hide" style="min-width:640px; font-size:0px;line-height:0px;">
+        <img height="1" src="spacer.gif" style="min-width: 640px; text-decoration: none; border: none; -ms-interpolation-mode: bicubic;">
+    </td>
+</tr>	
+</tbody></table>
+ <!-- ~~~~~~~~~ 0 height  IMAGE  Container Ends ~~~~~~~~~~-->  
+
+
+    
+            <!-- ~~~~~~~~~~MASKS MANDATORY NOTICE BEGINS~~~~~~~~~~~~~~ -->	  
+  </td></tr><tr>
+        <td>
+	<center> 
+		 
+ </center>
+
+ </td> 
+ </tr> 
+     <!-- ~~~~~~~~~~MASKS MANDATORY NOTICE ENDS ~~~~~~~~~~~~~~ -->	
+
+           <!-- ~~~~~~~~~ OUTBOUND TRIP DETAILS BEGINS ~~~~~~~~~~--> 
+<tr><td> 
+   <table cellpadding="0" cellspacing="0" border="0" align="center" width="640">
+   <tbody><tr>
+   <td style="padding:0; font-family: Helvetica, Arial, sans-serif;">
+   	      <!-- To increase the spacing/padding situation at the BOTTOM of heading block increase the line-height number below  -->   
+    <div style="line-height: 40px;">&nbsp;</div>
+    
+  <div style="color:#363636;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:1.5;
+  padding:0;">
+<div class="txtTinyMce-wrapper">
+	<h2 style="text-align:center;font-size: 26px; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	color: #363636; mso-line-height-alt: 28x;margin:0 auto;"> 
+	OUTBOUND TRIP DETAILS
+	</h2>
+	 <!-- To increase the spacing/padding situation at the BOTTOM of this header block increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:40px">&nbsp;</div>
+    </div>
+</div>
+</td> 
+</tr>
+</tbody></table>
+</td></tr>
+<!-- ~~~~~~~~~ Medium sized header ENDS ~~~~~~~~~~--> 
+
+     <!-- ~~~~~~~~~~    Train Ticket IMAGE Block Container with button Begins  ~~~~~~~~~~~~~~~~  -->    
+   <tr><td> 
+ 
+  <center>
+<table cellspacing="0" role="presentation" cellpadding="0" border="0" width="690" style="margin:0 auto; padding:0; width:640px; background-color:#EAF3F2;" bgcolor="#EAF3F2" align="center" class="mobile">
+	<tbody>
+      <tr>
+    	<td align="center">
+    					     
+		 <div style="color:#363636;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:1.5;
+				 padding:10px;">
+				<div class="txtTinyMce-wrapper" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; 
+				    color: #363636; mso-line-height-alt: 21px;">
+    							 	 <!-- To increase the spacing/padding situation at the BOTTOM of your text increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:25px">&nbsp;</div>
+		    <p style="margin: 0; text-align: center; font-size: 16px; line-height:2; word-break: break-word; mso-line-height-alt: 23px;
+    margin-top: 0; margin-bottom: 0; padding: 0 30px;">
+Hey {{context.journey.events.310783069._gobrightline.personalInformation.name.firstName}} {{context.journey.events.310783069._gobrightline.personalInformation.name.lastName}}, 
+    </p>
+      <p style="margin: 0; text-align: center; font-size: 16px; line-height:2; word-break: break-word; mso-line-height-alt: 23px;
+    margin-top: 0; margin-bottom: 0; padding: 0 30px;">
+<strong>It looks like you've made changes to your trip. </strong>
+    </p>
+          <p style="margin: 0; text-align: center; font-size: 16px; line-height:2; word-break: break-word; mso-line-height-alt: 23px;
+    margin-top: 0; margin-bottom: 0; padding: 0 30px;">
+    The fare difference of $ ##event.fare_difference has been charged to the original payment method. </p> 
+    </div>
+    </div>
+    		
+    		
+        <!-- To increase the spacing/padding situation at the TOP of your image increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:20px">&nbsp;</div> 
+ 
+    
+     <!-- Image Tag class, change "src" to the image url you would like to use.  -->   
+    <img class="center autowidth" align="center" border="0" src="{{context.journey.events.310783069._gobrightline.ticketInformation.departureQRCode}}" alt="QR code" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 228px; max-width: 100%;text-align:center;margin:0 auto;" width="228">
+     <!-- To increase the spacing/padding situation at the BOTTOM of your image increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:25px">&nbsp;</div>
+    		
+  <!-- ~~~~~~~~~ TEXT AREA Container BEGINS ~~~~~~~~~~-->       
+				     
+		 <div style="color:#363636;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:1.5;
+				 padding:10px;">
+				<div class="txtTinyMce-wrapper" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; 
+				    color: #363636; mso-line-height-alt: 21px;">
+									    <p class="passenger-name" style="margin: 0; text-align: center; font-size: 16px; line-height: 1.5; word-break: break-word; mso-line-height-alt: 23px; 
+				    margin-top: 0; margin-bottom: 0;margin-left: auto;margin-right:auto;font-weight:700;padding: 0 30px;">
+				       Passenger Name : {{context.journey.events.310783069._gobrightline.personalInformation.name.firstName}} {{context.journey.events.310783069._gobrightline.personalInformation.name.lastName}}
+					 </p> 
+				    <p class="ticket-info" style="margin: 0; text-align: center; font-size: 16px; line-height: 1.5; word-break: break-word; mso-line-height-alt: 23px; 
+				    margin-top: 0; margin-bottom: 0;margin-left: auto;margin-right:auto;font-weight:700;padding: 0 30px;">
+				       Ticket Number: {{context.journey.events.310783069._gobrightline.ticketInformation.ticketNumber}}
+					 </p> 
+
+	 <!-- CONDITIONALLY RENDERED FOR BRIGHTLINE+ MOBILITY PURCHASES  BEGINS  --> 
+					 	 <!-- To increase the spacing/padding situation at the BOTTOM of your text increase the line-height number below  -->   
+    
+		    
+					
+	 <!-- CONDITIONALLY RENDERED FOR BRIGHTLINE+ MOBILITY PURCHASES ENDS  --> 
+				    </div>
+				</div>
+				    <!-- ~~~~~~~~~ TEXT AREA Container ENDS  ~~~~~~~~~~-->   
+				     	</td>
+				    </tr>
+      
+      
+               <!-- ~~~~~~~~~ BUTTON BLOCK Container BEGINS  ~~~~~~~~~~-->     
+ <tr>
+                                        <td>
+                                            <div style="background-color:transparent; margin-top:30px; margin-bottom: 0px; ">
+                                                <!--[if mso]>
+ 	        <div style="font-size:1px;line-height:30px">&nbsp;</div>
+ 	    <![endif]-->
+                                                <div class="block-grid " style="min-width: 320px; max-width: 640px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; Margin: 0 auto; background-color: transparent;">
+                                                    <div style="border-collapse: collapse;display: table;width: 100%;background-color:transparent;">
+                                                        <!--[if (mso)|(IE)]>
+            <table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center">
+            <table cellpadding="0" cellspacing="0" border="0" style="width:690px"><tr class="layout-full-width" style="background-color:transparent"><![endif]-->
+                                                        <!--[if (mso)|(IE)]><td align="center" width="690" style="background-color:transparent;width:640px; border-top: 0px solid transparent;
+            border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top">
+            <table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding:0;"><![endif]-->
+                                                        <div class="col num12" style="min-width: 320px; max-width: 690px; display: table-cell; vertical-align: top; width: 690px;">
+                                                            <div class="col_cont" style="width:100% !important;">
+                                                                <!--[if (!mso)&(!IE)]><!-->
+                                                                <div style="border-top:0px solid transparent; border-left:0px solid transparent;
+                        border-bottom:0px solid transparent; border-right:0px solid transparent; padding:0">
+                                                                    <!--<![endif]-->
+                                                                    <div style="width:640px;" align="center">
+                                                                        <!-- additionally added -->
+                                                                        <div style="display: inline-block; width:250px; height:70px;">
+                                                                            <!-- additionally added -->
+                                                                            <div class="button-container" align="center" style="padding: 0 10px;text-align:center;">
+
+                                                                                <!-- NOTE: OUTLOOK only Button , the href/url of the button NEEDS TO  BE REPLACE IN BOTH BUTTONS-->
+                                                                                <!--[if mso]>
+									<table width="100%" cellpadding="0" cellspacing="0" border="0"
+									style="border-spacing: 0; border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+									<tr>
+									<td style="padding-top: 10px;  padding-bottom: 10px;" align="center">
+									<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" 
+									href="{{context.journey.events.310783069._gobrightline.referenceLinks.manageBookingLink}}" 
+									style="height:46.5pt;width:180pt;v-text-anchor:middle;" arcsize="0%" stroke="false" fillcolor="#ffdb00">
+									<w:anchorlock/>
+									<v:textbox inset="0,0,0,0">
+									<center style="color:#363636; font-family:Arial, sans-serif; font-size:16px">
+									<![endif]-->
+                                                                                <!-- 1. CHANGE HREF BUTTON COPY HERE -->
+                                                                                <a href="{{context.journey.events.310783069._gobrightline.referenceLinks.manageBookingLink}}" target="_blank" class="button" style="-webkit-text-size-adjust: none; text-decoration: none; display: inline-block; color: #363636; background-color: #ffdb00;
+										border-radius: 0px; -webkit-border-radius: 0px; -moz-border-radius: 0px; width: auto; width: auto; border-top: 1px solid #ffdb00; 
+										border-right: 1px solid #ffdb00; border-bottom: 1px solid #ffdb00; border-left: 1px solid #ffdb00; padding-top: 15px;
+										padding-bottom: 15px; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; text-align: center; mso-border-alt: none; 
+										word-break: keep-all;">
+                                                                                    <span style="padding-left:50px;padding-right:50px;font-size:16px;display:inline-block;letter-spacing:1px;">
+										<span style="font-size: 16px; line-height: 2; word-break: break-word; mso-line-height-alt: 32px; color:#363636;">
+										<!-- 2. BUTTON COPY HERE -->
+											<strong> MANAGE TRIP </strong>
+											</span></span>
+                                                                                </a>
+                                                                                <!--[if mso]></center></v:textbox></v:roundrect></td></tr></table><![endif]-->
+                                                                            </div>
+                                                                        </div>
+                                                                        <!-- additionally added -->
+                                                                        <div style="display: inline-block; width:250px; height:70px;">
+                                                                            <!-- additionally added -->
+                                                                            <div class="button-container" align="center" style="padding: 0 10px;text-align:center;">
+
+                                                                                <!-- NOTE: OUTLOOK only Button , the href/url of the button NEEDS TO  BE REPLACE IN BOTH BUTTONS-->
+                                                                                <!--[if mso]>
+									<table width="100%" cellpadding="0" cellspacing="0" border="0"
+									style="border-spacing: 0; border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+									<tr>
+									<td style="padding-top: 10px;  padding-bottom: 10px;" align="center">
+									<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" 
+									href="{{event.view_ticket_link}}" 
+									style="height:46.5pt;width:180pt;v-text-anchor:middle;" arcsize="0%" stroke="false" fillcolor="#ffdb00">
+									<w:anchorlock/>
+									<v:textbox inset="0,0,0,0">
+									<center style="color:#363636; font-family:Arial, sans-serif; font-size:16px">
+									<![endif]-->
+                                                                                <!-- 1. CHANGE HREF BUTTON COPY HERE -->
+                                                                                <a href="{{context.journey.events.310783069._gobrightline.referenceLinks.viewItineraryLink}}" target="_blank" class="button" style="-webkit-text-size-adjust: none; text-decoration: none; display: inline-block; color: #363636; background-color: #ffdb00;
+										border-radius: 0px; -webkit-border-radius: 0px; -moz-border-radius: 0px; width: auto; width: auto; border-top: 1px solid #ffdb00; 
+										border-right: 1px solid #ffdb00; border-bottom: 1px solid #ffdb00; border-left: 1px solid #ffdb00; padding-top: 15px;
+										padding-bottom: 15px; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; text-align: center; mso-border-alt: none; 
+										word-break: keep-all;">
+                                                                                    <span style="padding-left:50px;padding-right:50px;font-size:16px;display:inline-block;letter-spacing:1px;">
+										<span style="font-size: 16px; line-height: 2; word-break: break-word; mso-line-height-alt: 32px; color:#363636;">
+										<!-- 2. BUTTON COPY HERE -->
+											<strong> VIEW TICKET </strong>
+											</span></span>
+                                                                                </a>
+                                                                                <!--[if mso]></center></v:textbox></v:roundrect></td></tr></table><![endif]-->
+                                                                            </div>
+                                                                        </div>
+                                                                        <!-- additionally added -->
+                                                                    </div>
+                                                                    <!-- additionally added -->
+                                                                    <!--[if (!mso)&(!IE)]><!-->
+                                                                </div>
+                                                                <!--<![endif]-->
+                                                            </div>
+                                                        </div>
+                                                        <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+                                                        <!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+                                                    </div>
+                                                </div>
+
+                                                <!--[if mso]>
+ 	        <div style="font-size:1px;line-height:30px">&nbsp;</div>
+ 	 <![endif]-->
+                                            </div>
+
+                                            <!-- To increase the spacing/padding situation at the BOTTOM of your image increase the line-height number below  -->
+                                            <div style="font-size:1px;line-height:40px">&nbsp;</div>
+
+                                        </td>
+                                    </tr>
+  <!-- ~~~~~~~~~ BUTTON BLOCK Container ENDS  ~~~~~~~~~~-->   
+
+
+    <!--[if mso]>
+    </td></tr>
+    </table>
+    <![endif]-->
+	</tbody>
+      </table> 
+  </center>   
+    </td></tr>
+        <!-- ~~~~~~~~~ QR BLOCK BLUE Container Ends ~~~~~~~~~~-->    
+     
+     <tr> <td> 
+     
+<!-- ~~~~~~~~~OUTBOUND TRIP  Brightline+ Begins CONDITIONALLY RENDERED  ~~~~~~~~~~--> 
+	{%#if event.departure_pickup_shared_ride_details %} 
+ 	
+<tr> <td> 
+<table cellpadding="0" cellspacing="0" border="0" class="block-container" width="690"> 
+
+    <tbody><tr><td>
+ 	 <!-- To increase the spacing/padding situation at the BOTTOM of your text increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:60px">&nbsp;</div>
+ <table cellpadding="0" cellspacing="0" border="0" align="left" width="120" class="reduce-icon"> 
+ <tbody><tr>
+ <td><img style="" src="https://storage.googleapis.com/us1-app-storage/91953024-a777-11eb-9054-7a74f13130f5/media/original/37dcc09a-4d37-11ec-bf85-0a4040fe0e1d">
+     	</td>
+    </tr>
+</tbody></table>
+
+   <table cellpadding="0" cellspacing="0" border="0" align="center" width="570"> 
+      <tbody>
+  
+     <tr>
+		<td style="padding-left:0;">
+			  <table cellpadding="0" cellspacing="0" border="0" width="570"> 
+			  
+	 <tbody><tr>
+		<td>
+  		<div style="color:#363636;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:1.5;
+		  padding:0;">
+		<div class="txtTinyMce-wrapper">
+			<h2 style="font-size: 30px; line-height: 1.5; font-family:Helvetica, Arial, sans-serif;
+			color: #363636; mso-line-height-alt: 28x;margin:0; font-weight:700;background: linear-gradient(to top,#ffdb00 18px,transparent 18px);
+			display:table-cell;" class="trip-time"> 
+		<a style="color:#363636 !important;">Brightline+ Pick - up </a> 
+			</h2>
+			<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;" class="trip-date">
+				<a style="color:#363636 !important;font-weight:400 !important;"> {{context.journey.events.310783069._gobrightline.rideAppDetails.departure.sharedRidePickup.tripDateString}} </a> 
+				</p>
+			<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;"> 	<span class="passenger-total">{{context.journey.events.310783069._gobrightline.rideAppDetails.departure.sharedRidePickup.numberOfPassengers}} passenger </span></p>
+				<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 700;mso-line-height-alt: 21px;font-style:italic; text-transform:uppercase;">{{context.journey.events.310783069._gobrightline.rideAppDetails.departure.sharedRidePickup.rideType}} </p>
+		 </div>
+	</div>
+			 <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:40px">&nbsp;</div>
+    			  	</td>
+    			  	
+			  </tr>
+			 </tbody></table>
+		</td>
+	</tr>
+	
+	<tr><td>
+	<!-- ~~~~~~~~~OUTBOUND TRIP  BRIGHTLINE+ PICKUP ARRIVAL/DEPARTURE DETAILS BEGINS  ~~~~~~~~~~--> 
+	 <table cellpadding="0" cellspacing="0" border="0" width="570" class="mobile"> 
+	<tbody><tr> 
+		<td width="285" style="padding-left:0;"> 
+		<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;"> ESTIMATED PICK UP TIME  </p>
+	<h4 class="mobile-dest" style="font-size: 22px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636 !important;
+	font-weight: 700;mso-line-height-alt: 32px;text-transform:capitalize;"> <a style="color:#363636 !important;font-weight:700 !important;">
+		{{context.journey.events.310783069._gobrightline.rideAppDetails.departure.sharedRidePickup.pickupStation}} </a> </h4>
+
+	<p class="mobile-time" style="font-size: 26px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636 !important; text-transform:uppercase;
+	font-weight: 400;mso-line-height-alt: 32px;"> 
+	<a style="color:#363636 !important;font-weight:400 !important;"> {{context.journey.events.310783069._gobrightline.rideAppDetails.departure.sharedRidePickup.pickupTimeString}}</a>
+	</p>
+		</td>
+		
+	<td style="vertical-align:middle;text-align:left;" align="center" class="car-icon-wrappr" width="140"> 
+	<img style="width:72px;" class="car-icon" src="https://storage.googleapis.com/us1-app-storage/91953024-a777-11eb-9054-7a74f13130f5/media/original/1b028950-4bfc-11ec-9fc6-9e9791f7aeed"> 
+	</td> 
+	
+	<td width="275" class="add-lp" style=""> 
+	<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;"> ESTIMATED DROP OFF TIME  </p>
+	<h4 class="mobile-dest" style="font-size: 22px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:capitalize;
+	font-weight: 700;mso-line-height-alt: 32px;">  {{context.journey.events.310783069._gobrightline.rideAppDetails.departure.sharedRidePickup.dropoffStation}} </h4>
+	<p class="mobile-time" style="font-size: 26px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+	font-weight: 400;mso-line-height-alt: 32px;"> 
+	<a style="color:#363636 !important;font-weight:400 !important;">{{context.journey.events.310783069._gobrightline.rideAppDetails.departure.sharedRidePickup.dropoffTimeString}}</a>
+	</p>
+	</td>
+	</tr>
+	
+	<tr><td> 				 <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:40px">&nbsp;</div>
+    </td></tr>
+    
+	</tbody></table>
+	</td></tr>
+	
+ 	{% endif %}
+ 	
+ 		{% if event.departure_pickup_private_ride_details %} 
+ 	
+<tr> <td> 
+<table cellpadding="0" cellspacing="0" border="0" class="block-container" width="690"> 
+
+    <tbody><tr><td>
+ 	 <!-- To increase the spacing/padding situation at the BOTTOM of your text increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:60px">&nbsp;</div>
+ <table cellpadding="0" cellspacing="0" border="0" align="left" width="120" class="reduce-icon"> 
+ <tbody><tr>
+ <td><img style="" src="https://storage.googleapis.com/us1-app-storage/91953024-a777-11eb-9054-7a74f13130f5/media/original/37dcc09a-4d37-11ec-bf85-0a4040fe0e1d">
+     	</td>
+    </tr>
+</tbody></table>
+
+   <table cellpadding="0" cellspacing="0" border="0" align="center" width="570"> 
+      <tbody>
+  
+     <tr>
+		<td style="padding-left:0;">
+			  <table cellpadding="0" cellspacing="0" border="0" width="570"> 
+			  
+	 <tbody><tr>
+		<td>
+  		<div style="color:#363636;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:1.5;
+		  padding:0;">
+		<div class="txtTinyMce-wrapper">
+			<h2 style="font-size: 30px; line-height: 1.5; font-family:Helvetica, Arial, sans-serif;
+			color: #363636; mso-line-height-alt: 28x;margin:0; font-weight:700;background: linear-gradient(to top,#ffdb00 18px,transparent 18px);
+			display:table-cell;" class="trip-time"> 
+		<a style="color:#363636 !important;">Brightline+ Pick - up </a> 
+			</h2>
+			<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;" class="trip-date">
+				<a style="color:#363636 !important;font-weight:400 !important;"> {{context.journey.events.310783069._gobrightline.rideAppDetails.departure.privateRidePickup.tripDateString}} </a> 
+				</p>
+			<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;"> 	<span class="passenger-total">{{context.journey.events.310783069._gobrightline.rideAppDetails.departure.privateRidePickup.numberOfPassengers}} passenger </span></p>
+				<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 700;mso-line-height-alt: 21px;font-style:italic; text-transform:uppercase;">{{context.journey.events.310783069._gobrightline.rideAppDetails.departure.privateRidePickup.rideType}} </p>
+		 </div>
+	</div>
+			 <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:40px">&nbsp;</div>
+    			  	</td>
+    			  	
+			  </tr>
+			 </tbody></table>
+		</td>
+	</tr>
+	
+	<tr><td>
+	<!-- ~~~~~~~~~OUTBOUND TRIP  BRIGHTLINE+ PICKUP ARRIVAL/DEPARTURE DETAILS BEGINS  ~~~~~~~~~~--> 
+	 <table cellpadding="0" cellspacing="0" border="0" width="570" class="mobile"> 
+	<tbody><tr> 
+		<td width="285" style="padding-left:0;"> 
+		<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;"> ESTIMATED PICK UP TIME  </p>
+	<h4 class="mobile-dest" style="font-size: 22px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636 !important;
+	font-weight: 700;mso-line-height-alt: 32px;text-transform:capitalize;"> <a style="color:#363636 !important;font-weight:700 !important;">
+		{{context.journey.events.310783069._gobrightline.rideAppDetails.departure.privateRidePickup.pickupStation}} </a> </h4>
+
+	<p class="mobile-time" style="font-size: 26px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636 !important; text-transform:uppercase;
+	font-weight: 400;mso-line-height-alt: 32px;"> 
+	<a style="color:#363636 !important;font-weight:400 !important;"> {{context.journey.events.310783069._gobrightline.rideAppDetails.departure.privateRidePickup.pickupTimeString}}</a>
+	</p>
+		</td>
+		
+	<td style="vertical-align:middle;text-align:left;" align="center" class="car-icon-wrappr" width="140"> 
+	<img style="width:72px;" class="car-icon" src="https://storage.googleapis.com/us1-app-storage/91953024-a777-11eb-9054-7a74f13130f5/media/original/1b028950-4bfc-11ec-9fc6-9e9791f7aeed"> 
+	</td> 
+	
+	<td width="275" class="add-lp" style=""> 
+	<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;"> ESTIMATED DROP OFF TIME  </p>
+	<h4 class="mobile-dest" style="font-size: 22px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:capitalize;
+	font-weight: 700;mso-line-height-alt: 32px;">  {{context.journey.events.310783069._gobrightline.rideAppDetails.departure.privateRidePickup.dropoffStation}} </h4>
+	<p class="mobile-time" style="font-size: 26px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+	font-weight: 400;mso-line-height-alt: 32px;"> 
+	<a style="color:#363636 !important;font-weight:400 !important;">{{context.journey.events.310783069._gobrightline.rideAppDetails.departure.privateRidePickup.dropoffTimeString}}</a>
+	</p>
+	</td>
+	</tr>
+	
+	<tr><td> 				 <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:40px">&nbsp;</div>
+    </td></tr>
+    
+	</tbody></table>
+	</td></tr>
+	
+ 	{% endif %}
+<!-- ~~~~~~~~~ OUTBOUND TRIP BRIGHLINE+ PICKUP  ARRIVAL/DEPARTURE DETAILS ENDS  ~~~~~~~~~~--> 
+    </td></tr></tbody>
+      </table>    
+
+   </center></td>
+   </tr>
+  </tbody></table>
+  
+
+<!-- ~~~~~~~~~OUTBOUND TRIP  TRAIN RIDE DETAILS BEGINS ALWAYS EXISTS   ~~~~~~~~~~-->  
+  
+<table cellpadding="0" cellspacing="0" border="0" class="block-container" width="690"> 
+    <tbody><tr><td>
+	    <!-- To increase the spacing/padding situation at the BOTTOM of your image increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:40px">&nbsp;</div>
+<table cellpadding="0" cellspacing="0" border="0" align="left" width="120"> 
+ <tbody><tr>
+ <td>
+ 	<img style="" src="https://storage.googleapis.com/us1-app-storage/91953024-a777-11eb-9054-7a74f13130f5/media/original/88786c72-4d58-11ec-b9f7-aacdb870c28a">
+     	</td>
+    </tr>
+</tbody></table> 
+
+	<!-- ~~~~~~~~~ OUTBOUND TRIP - TRAIN TIMING BEGINS  ~~~~~~~~~~--> 
+   
+			  <table cellpadding="0" cellspacing="0" border="0" width="570"> 
+			  <tbody><tr>
+			  	<td>
+
+  		<div style="color:#363636;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:1.5;
+		  padding:0;">
+		<div class="txtTinyMce-wrapper">
+			<h2 style="font-size: 30px; line-height: 1.5; font-family:Helvetica, Arial, sans-serif;
+			color: #363636; mso-line-height-alt: 28x;margin:0; font-weight:700;background: linear-gradient(to top,#ffdb00 18px,transparent 18px);
+			display:table-cell;" class="trip-time"> 
+		<a style="color:#363636 !important;"> Boards {{context.journey.events.310783069._gobrightline.tripDetails.departure.boardingTimeString}} </a> 
+			</h2>
+			<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;" class="trip-date">
+				<a style="color:#363636 !important;font-weight:400 !important;"> {{context.journey.events.310783069._gobrightline.tripDetails.departure.tripDateString}}  </a> 
+				</p>
+			<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;"> 	<span class="passenger-total">{{context.journey.events.310783069._gobrightline.tripDetails.departure.numberOfPassengers}} passenger </span></p>
+		 </div>
+	</div>
+			 <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:40px">&nbsp;</div>
+    			  	</td>
+			  </tr>
+			 </tbody></table>
+
+   <table cellpadding="0" cellspacing="0" border="0" align="center" width="570"> 
+      <tbody>
+      	
+	<tr><td>
+	
+	<!-- ~~~~~~~~~ OUTBOUND TRIP ARRIVAL/DEPARTURE DETAILS BEGINS  ~~~~~~~~~~--> 
+	 <table cellpadding="0" cellspacing="0" border="0" width="570" class="mobile"> 
+	<tbody><tr> 
+		<td width="250"> 
+	<h4 class="mobile-dest" style="font-size: 22px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:capitalize;
+	font-weight: 700;mso-line-height-alt: 32px;"> {{context.journey.events.310783069._gobrightline.tripDetails.departure.fromStation}}  </h4>
+	<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+	font-weight: 400;mso-line-height-alt: 32px;"> 
+	DEPARTS
+	</p>
+	<p class="mobile-time" style="font-size: 37px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+	font-weight: 400;mso-line-height-alt: 32px;"> 
+	<a style="color:#363636 !important;font-weight:400 !important;">{{context.journey.events.310783069._gobrightline.tripDetails.departure.departureTimeString}}</a> 
+	</p>
+		</td>
+		
+	<td width="140" style="vertical-align:middle;" align="center;"> 
+	<img src="https://storage.googleapis.com/us1-app-storage/91953024-a777-11eb-9054-7a74f13130f5/media/original/457ae97a-061a-11ec-9e00-7e6d2d6d8107"> 
+	</td> 
+	
+		<td width="250" style="padding-left:15px;"> 
+	<h4 class="mobile-dest" style="font-size: 22px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:capitalize;
+	font-weight: 700;mso-line-height-alt: 32px;"> {{context.journey.events.310783069._gobrightline.tripDetails.departure.toStation}} </h4>
+	<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+	font-weight: 400;mso-line-height-alt: 32px;"> 
+	Arrives
+	</p>
+	<p class="mobile-time" style="font-size: 37px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+	font-weight: 400;mso-line-height-alt: 32px;"> 
+	<a style="color:#363636 !important;font-weight:400 !important;">{{context.journey.events.310783069._gobrightline.tripDetails.departure.arrivalTimeString}}</a> 
+	</p>
+		</td>
+		
+	</tr>
+	</tbody></table>
+	</td></tr>
+		
+		
+	<tr><td>
+		<!-- ~~~~~~~~~ OUTBOUND TRIP  TRIP/DURATION DETAILS BEGINS   ~~~~~~~~~~--> 
+ <table cellpadding="0" cellspacing="0" border="0" align="center" width="570"> 
+	<tbody><tr> 
+	<td width="250" style=""> 
+	 <!-- To increase the spacing/padding situation at the TOP of this text block increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:40px">&nbsp;</div>
+	<p class="trip-duration" style="font-size: 16px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636;
+	font-weight: 400;mso-line-height-alt: 32px;"> <strong> Duration:</strong> {{context.journey.events.310783069._gobrightline.tripDetails.departure.duration}}</p>
+	<p class="trip-class-type" style="font-size: 16px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636;
+	font-weight: 400;mso-line-height-alt: 32px;"> <strong> Class: </strong> {{context.journey.events.310783069._gobrightline.tripDetails.departure.class}} </p>
+	<p class="trip-extras" style="font-size: 16px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636;
+	font-weight: 400;mso-line-height-alt: 32px;"> <strong>Extras: </strong>  {{context.journey.events.310783069._gobrightline.tripDetails.departure.extras}} </p>
+</td>
+	
+<td width="140"> </td>
+<td width="250"> 
+	 <div style="font-size:1px;line-height:40px">&nbsp;</div>
+	<p style="margin:0;mso-line-height-alt: 32px;line-height: 1.5;"> 
+		<a href="{{context.journey.events.310783069._gobrightline.referenceLinks.bookExtrasLink}}" style="font-size: 16px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #0D4173;
+	font-weight: 700;mso-line-height-alt: 32px;"> Book Extras </a> 
+	</p>
+	<p style="margin:0;mso-line-height-alt: 32px;line-height: 1.5;"> 
+	<a href="{{context.journey.events.310783069._gobrightline.referenceLinks.getDirectionsLink}}" style="font-size: 16px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #0D4173;
+	font-weight: 700;mso-line-height-alt: 32px;"> Get Directions </a>
+	</p>
+
+</td>
+</tr>	
+
+		<!-- ~~~~~~~~~ OUTBOUND TRIP  TRIP/DURATION DETAILS ENDS  ~~~~~~~~~~--> 
+</tbody></table>
+</td></tr>
+
+    </tbody>
+      </table>    
+   </td>
+   </tr>
+   
+    </tbody></table>
+   
+  
+   <!-- ~~~~~~~~~ REQUIRED OUTBOUND TRIP  TRAIN RIDE DETAILS BEGINS ALWAYS EXISTS   ~~~~~~~~~~--> 
+   
+   
+ 	<!-- ~~~~~~~~~ OUTBOUND TRIP BRIGHTLINE+ DROP OFF CONDITIONALLY RENDERED BEGINS  ~~~~~~~~~~-->    
+ 	{% if event.departure_dropoff_shared_ride_details %} 
+ 	
+ 	
+<tr> <td> 
+<table cellpadding="0" cellspacing="0" border="0" class="block-container" width="690"> 
+<tbody><tr> <td>
+ <table cellpadding="0" cellspacing="0" border="0" align="left" width="120"> 
+ <tbody><tr>
+ <td>
+  <!-- To increase the spacing/padding situation at the TOP of this text block increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:30px">&nbsp;</div>
+ 	<img style="" src="https://storage.googleapis.com/us1-app-storage/91953024-a777-11eb-9054-7a74f13130f5/media/original/8d5a1532-4d40-11ec-b37f-aacdb870c28a">
+     	</td>
+    </tr>
+</tbody></table>
+
+
+  <table cellpadding="0" cellspacing="0" border="0" width="570"> 
+  <tbody><tr>
+		<td style="padding-left:0;">
+			  <table cellpadding="0" cellspacing="0" border="0" width="570"> 
+			  
+	 <tbody><tr>
+		<td>
+	 <!-- To increase the spacing/padding situation at the TOP of this text block increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:40px">&nbsp;</div>
+  		<div style="color:#363636;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:1.5;
+		  padding:0;">
+		<div class="txtTinyMce-wrapper">
+			<h2 style="font-size: 30px; line-height: 1.5; font-family:Helvetica, Arial, sans-serif;
+			color: #363636; mso-line-height-alt: 28x;margin:0; font-weight:700;background: linear-gradient(to top,#ffdb00 18px,transparent 18px);
+			display:table-cell;" class="trip-time"> 
+		<a style="color:#363636 !important;">Brightline+ Drop-Off</a> 
+			</h2>
+			<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;" class="trip-date">
+				<a style="color:#363636 !important;font-weight:400 !important;"> {{context.journey.events.310783069._gobrightline.rideAppDetails.departure.sharedRideDropoff.tripDateString}}  </a> 
+				</p>
+			<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;"> 	<span class="passenger-total"> {{context.journey.events.310783069._gobrightline.rideAppDetails.departure.sharedRideDropoff.numberOfPassengers}} passenger </span></p>
+				<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 700;mso-line-height-alt: 21px;font-style:italic; text-transform:uppercase;"> 	{{context.journey.events.310783069._gobrightline.rideAppDetails.departure.sharedRideDropoff.rideType}} </p>
+		 </div>
+	</div>
+			 <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:40px">&nbsp;</div>
+    			  	</td>
+    			  	
+			  </tr>
+			 </tbody></table>
+		</td>
+	</tr>
+	
+	<tr><td>
+	
+	<!-- ~~~~~~~~~ OUTBOUND TRIP ARRIVAL/DEPARTURE DETAILS BEGINS  ~~~~~~~~~~--> 
+	 <table cellpadding="0" cellspacing="0" border="0" width="570" class="mobile"> 
+	<tbody><tr> 
+		<td width="285" style="padding-left:0;"> 
+		<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;"> ESTIMATED PICK UP TIME  </p>
+	<h4 class="mobile-dest" style="font-size: 22px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:capitalize;
+	font-weight: 700;mso-line-height-alt: 32px;"> {{context.journey.events.310783069._gobrightline.rideAppDetails.departure.sharedRideDropoff.pickupStation}} </h4>
+
+	<p class="mobile-time" style="font-size: 26px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+	font-weight: 400;mso-line-height-alt: 32px;"> 
+	<a style="color:#363636 !important;font-weight:400 !important;">  {{context.journey.events.310783069._gobrightline.rideAppDetails.departure.sharedRideDropoff.pickupTimeString}} </a>
+	</p>
+		</td>
+		
+	<td width="140" style="vertical-align:middle;text-align:left;" align="center"> 
+	<img style="width:72px;" src="https://storage.googleapis.com/us1-app-storage/91953024-a777-11eb-9054-7a74f13130f5/media/original/1b028950-4bfc-11ec-9fc6-9e9791f7aeed"> 
+	</td> 
+	
+	<td width="275" class="add-lp"> 
+	<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;"> ESTIMATED DROP OFF TIME  </p>
+	<h4 class="mobile-dest" style="font-size: 22px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:capitalize;
+	font-weight: 700;mso-line-height-alt: 32px;"> <a style="color:#363636 !important;font-weight:700 !important;">
+		  {{context.journey.events.310783069._gobrightline.rideAppDetails.departure.sharedRideDropoff.dropoffStation}} </a> </h4>
+	<p class="mobile-time" style="font-size: 26px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+	font-weight: 400;mso-line-height-alt: 32px;"> 
+	<a style="color:#363636 !important;font-weight:400 !important;">{{context.journey.events.310783069._gobrightline.rideAppDetails.departure.sharedRideDropoff.dropoffTimeString}}</a>
+	</p>
+	</td>
+	</tr>
+	</tbody></table>
+	</td></tr>
+	</tbody></table>
+	   
+     </td></tr>
+  </tbody></table>
+ </td> </tr> 
+
+ 	{% endif %}
+ 	
+ 	
+ 		{% if event.departure_dropoff_private_ride_details %} 
+ 	
+ 	
+<tr> <td> 
+<table cellpadding="0" cellspacing="0" border="0" class="block-container" width="690"> 
+<tbody><tr> <td>
+ <table cellpadding="0" cellspacing="0" border="0" align="left" width="120"> 
+ <tbody><tr>
+ <td>
+  <!-- To increase the spacing/padding situation at the TOP of this text block increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:30px">&nbsp;</div>
+ 	<img style="" src="https://storage.googleapis.com/us1-app-storage/91953024-a777-11eb-9054-7a74f13130f5/media/original/8d5a1532-4d40-11ec-b37f-aacdb870c28a">
+     	</td>
+    </tr>
+</tbody></table>
+
+
+  <table cellpadding="0" cellspacing="0" border="0" width="570"> 
+  <tbody><tr>
+		<td style="padding-left:0;">
+			  <table cellpadding="0" cellspacing="0" border="0" width="570"> 
+			  
+	 <tbody><tr>
+		<td>
+	 <!-- To increase the spacing/padding situation at the TOP of this text block increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:40px">&nbsp;</div>
+  		<div style="color:#363636;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:1.5;
+		  padding:0;">
+		<div class="txtTinyMce-wrapper">
+			<h2 style="font-size: 30px; line-height: 1.5; font-family:Helvetica, Arial, sans-serif;
+			color: #363636; mso-line-height-alt: 28x;margin:0; font-weight:700;background: linear-gradient(to top,#ffdb00 18px,transparent 18px);
+			display:table-cell;" class="trip-time"> 
+		<a style="color:#363636 !important;">Brightline+ Drop-Off</a> 
+			</h2>
+			<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;" class="trip-date">
+				<a style="color:#363636 !important;font-weight:400 !important;"> {{context.journey.events.310783069._gobrightline.rideAppDetails.departure.privateRideDropoff.tripDateString}}  </a> 
+				</p>
+			<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;"> 	<span class="passenger-total"> {{context.journey.events.310783069._gobrightline.rideAppDetails.departure.privateRideDropoff.numberOfPassengers}} passenger </span></p>
+				<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 700;mso-line-height-alt: 21px;font-style:italic; text-transform:uppercase;"> {{context.journey.events.310783069._gobrightline.rideAppDetails.departure.privateRideDropoff.rideType}} </p>
+		 </div>
+	</div>
+			 <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:40px">&nbsp;</div>
+    			  	</td>
+    			  	
+			  </tr>
+			 </tbody></table>
+		</td>
+	</tr>
+	
+	<tr><td>
+	
+	<!-- ~~~~~~~~~ OUTBOUND TRIP ARRIVAL/DEPARTURE DETAILS BEGINS  ~~~~~~~~~~--> 
+	 <table cellpadding="0" cellspacing="0" border="0" width="570" class="mobile"> 
+	<tbody><tr> 
+		<td width="285" style="padding-left:0;"> 
+		<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;"> ESTIMATED PICK UP TIME  </p>
+	<h4 class="mobile-dest" style="font-size: 22px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:capitalize;
+	font-weight: 700;mso-line-height-alt: 32px;"> {{context.journey.events.310783069._gobrightline.rideAppDetails.departure.privateRideDropoff.pickupStation}} </h4>
+
+	<p class="mobile-time" style="font-size: 26px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+	font-weight: 400;mso-line-height-alt: 32px;"> 
+	<a style="color:#363636 !important;font-weight:400 !important;">  {{context.journey.events.310783069._gobrightline.rideAppDetails.departure.privateRideDropoff.pickupTimeString}} </a>
+	</p>
+		</td>
+		
+	<td width="140" style="vertical-align:middle;text-align:left;" align="center"> 
+	<img style="width:72px;" src="https://storage.googleapis.com/us1-app-storage/91953024-a777-11eb-9054-7a74f13130f5/media/original/1b028950-4bfc-11ec-9fc6-9e9791f7aeed"> 
+	</td> 
+	
+	<td width="275" class="add-lp"> 
+	<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;"> ESTIMATED DROP OFF TIME  </p>
+	<h4 class="mobile-dest" style="font-size: 22px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:capitalize;
+	font-weight: 700;mso-line-height-alt: 32px;"> <a style="color:#363636 !important;font-weight:700 !important;">
+		 {{context.journey.events.310783069._gobrightline.rideAppDetails.departure.privateRideDropoff.dropoffStation}} </a> </h4>
+	<p class="mobile-time" style="font-size: 26px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+	font-weight: 400;mso-line-height-alt: 32px;"> 
+	<a style="color:#363636 !important;font-weight:400 !important;">{{context.journey.events.310783069._gobrightline.rideAppDetails.departure.privateRideDropoff.dropoffTimeString}}</a>
+	</p>
+	</td>
+	</tr>
+	</tbody></table>
+	</td></tr>
+	</tbody></table>
+	   
+     </td></tr>
+  </tbody></table>
+ </td> </tr> 
+
+ 	{% endif %}
+      	<!-- ~~~~~~~~~ OUTBOUND TRIP BRIGHTLINE+ DROP OFF CONDITIONALLY RENDERED BEGINS  ~~~~~~~~~~-->   
+      	
+      	
+      	
+      	
+
+        <!-- ~~~~~~~~~ RETURN TRIP DETAILS BEGINS ~~~~~~~~~~--> 
+	{% if event.return_trip_details %} 
+   <table cellpadding="0" cellspacing="0" border="0" align="center" width="640">
+   <tbody><tr>
+   <td style="padding:0; font-family: Helvetica, Arial, sans-serif">
+    <!-- To increase the spacing/padding situation at the TOP of this header block increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:60px">&nbsp;</div>
+    
+  <div style="color:#363636;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:1.5;
+  padding:0;">
+<div class="txtTinyMce-wrapper">
+	<h2 style="text-align:center;font-size: 26px; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	color: #363636; mso-line-height-alt: 28x;margin:0 auto;"> 
+	RETURN TRIP DETAILS
+	</h2>
+	 <!-- To increase the spacing/padding situation at the BOTTOM of this header block increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:40px">&nbsp;</div>
+    </div>
+</div>
+</td> 
+</tr>
+</tbody></table>
+ 
+
+<!-- ~~~~~~~~~ Mediumm sized header ENDS ~~~~~~~~~~--> 
+
+  
+     <!-- ~~~~~~~~~~    Train Ticket IMAGE Block Container with button Begins  ~~~~~~~~~~~~~~~~  -->     
+  <center>
+<table cellspacing="0" role="presentation" cellpadding="0" border="0" width="690" style="margin:0 auto; padding:0; width:640px; background-color:#EAF3F2;" bgcolor="#EAF3F2" align="center">
+	<tbody>
+      <tr>
+    	<td align="center">
+        <!-- To increase the spacing/padding situation at the TOP of your image increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:40px">&nbsp;</div> 
+    
+     <!-- Image Tag class, change "src" to the image url you would like to use.  -->   
+    <img class="center autowidth" align="center" border="0" src="{{context.journey.events.310783069._gobrightline.ticketInformation.returnQRCode}}" alt="QR code" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 228px; max-width: 100%;text-align:center;margin:0 auto;" width="228">
+     <!-- To increase the spacing/padding situation at the BOTTOM of your image increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:25px">&nbsp;</div>
+    		
+  <!-- ~~~~~~~~~ TEXT AREA Container BEGINS ~~~~~~~~~~-->       
+				     
+		 <div style="color:#363636;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:1.5;
+				 padding:10px;">
+				<div class="txtTinyMce-wrapper" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; 
+				    color: #363636; mso-line-height-alt: 21px;">
+									    <p class="passenger-name" style="margin: 0; text-align: center; font-size: 16px; line-height: 1.5; word-break: break-word; mso-line-height-alt: 23px; 
+				    margin-top: 0; margin-bottom: 0;margin-left: auto;margin-right:auto;font-weight:700;padding: 0 30px;">
+				       Passenger Name : {{context.journey.events.310783069._gobrightline.personalInformation.name.firstName}} {{context.journey.events.310783069._gobrightline.personalInformation.name.lastName}}
+					 </p> 
+				    <p class="ticket-info" style="margin: 0; text-align: center; font-size: 16px; line-height: 1.5; word-break: break-word; mso-line-height-alt: 23px; 
+				    margin-top: 0; margin-bottom: 0;margin-left: auto;margin-right:auto;font-weight:700;padding: 0 30px;">
+				       Ticket Number: {{context.journey.events.310783069._gobrightline.ticketInformation.ticketNumber}}
+					 </p> 
+
+				    </div>
+				</div>
+				    <!-- ~~~~~~~~~ TEXT AREA Container ENDS  ~~~~~~~~~~-->   
+				     	</td>
+				    </tr>
+	
+	      
+               <!-- ~~~~~~~~~ BUTTON BLOCK Container BEGINS  ~~~~~~~~~~-->     
+ <tr>
+                                        <td>
+                                            <div style="background-color:transparent; margin-top:30px; margin-bottom: 0px; ">
+                                                <!--[if mso]>
+ 	        <div style="font-size:1px;line-height:30px">&nbsp;</div>
+ 	    <![endif]-->
+                                                <div class="block-grid " style="min-width: 320px; max-width: 640px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; Margin: 0 auto; background-color: transparent;">
+                                                    <div style="border-collapse: collapse;display: table;width: 100%;background-color:transparent;">
+                                                        <!--[if (mso)|(IE)]>
+            <table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center">
+            <table cellpadding="0" cellspacing="0" border="0" style="width:690px"><tr class="layout-full-width" style="background-color:transparent"><![endif]-->
+                                                        <!--[if (mso)|(IE)]><td align="center" width="690" style="background-color:transparent;width:640px; border-top: 0px solid transparent;
+            border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top">
+            <table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding:0;"><![endif]-->
+                                                        <div class="col num12" style="min-width: 320px; max-width: 690px; display: table-cell; vertical-align: top; width: 690px;">
+                                                            <div class="col_cont" style="width:100% !important;">
+                                                                <!--[if (!mso)&(!IE)]><!-->
+                                                                <div style="border-top:0px solid transparent; border-left:0px solid transparent;
+                        border-bottom:0px solid transparent; border-right:0px solid transparent; padding:0">
+                                                                    <!--<![endif]-->
+                                                                    <div style="width:640px;" align="center">
+                                                                        <!-- additionally added -->
+                                                                        <div style="display: inline-block; width:250px; height:70px;">
+                                                                            <!-- additionally added -->
+                                                                            <div class="button-container" align="center" style="padding: 0 10px;text-align:center;">
+
+                                                                                <!-- NOTE: OUTLOOK only Button , the href/url of the button NEEDS TO  BE REPLACE IN BOTH BUTTONS-->
+                                                                                <!--[if mso]>
+									<table width="100%" cellpadding="0" cellspacing="0" border="0"
+									style="border-spacing: 0; border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+									<tr>
+									<td style="padding-top: 10px;  padding-bottom: 10px;" align="center">
+									<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" 
+									href="{{context.journey.events.310783069._gobrightline.referenceLinks.manageBookingLink}}" 
+									style="height:46.5pt;width:180pt;v-text-anchor:middle;" arcsize="0%" stroke="false" fillcolor="#ffdb00">
+									<w:anchorlock/>
+									<v:textbox inset="0,0,0,0">
+									<center style="color:#363636; font-family:Arial, sans-serif; font-size:16px">
+									<![endif]-->
+                                                                                <!-- 1. CHANGE HREF BUTTON COPY HERE -->
+                                                                                <a href="{{context.journey.events.310783069._gobrightline.referenceLinks.manageBookingLink}}" target="_blank" class="button" style="-webkit-text-size-adjust: none; text-decoration: none; display: inline-block; color: #363636; background-color: #ffdb00;
+										border-radius: 0px; -webkit-border-radius: 0px; -moz-border-radius: 0px; width: auto; width: auto; border-top: 1px solid #ffdb00; 
+										border-right: 1px solid #ffdb00; border-bottom: 1px solid #ffdb00; border-left: 1px solid #ffdb00; padding-top: 15px;
+										padding-bottom: 15px; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; text-align: center; mso-border-alt: none; 
+										word-break: keep-all;">
+                                                                                    <span style="padding-left:50px;padding-right:50px;font-size:16px;display:inline-block;letter-spacing:1px;">
+										<span style="font-size: 16px; line-height: 2; word-break: break-word; mso-line-height-alt: 32px; color:#363636;">
+										<!-- 2. BUTTON COPY HERE -->
+											<strong> MANAGE TRIP </strong>
+											</span></span>
+                                                                                </a>
+                                                                                <!--[if mso]></center></v:textbox></v:roundrect></td></tr></table><![endif]-->
+                                                                            </div>
+                                                                        </div>
+                                                                        <!-- additionally added -->
+                                                                        <div style="display: inline-block; width:250px; height:70px;">
+                                                                            <!-- additionally added -->
+                                                                            <div class="button-container" align="center" style="padding: 0 10px;text-align:center;">
+
+                                                                                <!-- NOTE: OUTLOOK only Button , the href/url of the button NEEDS TO  BE REPLACE IN BOTH BUTTONS-->
+                                                                                <!--[if mso]>
+									<table width="100%" cellpadding="0" cellspacing="0" border="0"
+									style="border-spacing: 0; border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+									<tr>
+									<td style="padding-top: 10px;  padding-bottom: 10px;" align="center">
+									<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" 
+									href="{{context.journey.events.310783069._gobrightline.referenceLinks.viewItineraryLink}}" 
+									style="height:46.5pt;width:180pt;v-text-anchor:middle;" arcsize="0%" stroke="false" fillcolor="#ffdb00">
+									<w:anchorlock/>
+									<v:textbox inset="0,0,0,0">
+									<center style="color:#363636; font-family:Arial, sans-serif; font-size:16px">
+									<![endif]-->
+                                                                                <!-- 1. CHANGE HREF BUTTON COPY HERE -->
+                                                                                <a href="{{context.journey.events.310783069._gobrightline.referenceLinks.viewItineraryLink}}" target="_blank" class="button" style="-webkit-text-size-adjust: none; text-decoration: none; display: inline-block; color: #363636; background-color: #ffdb00;
+										border-radius: 0px; -webkit-border-radius: 0px; -moz-border-radius: 0px; width: auto; width: auto; border-top: 1px solid #ffdb00; 
+										border-right: 1px solid #ffdb00; border-bottom: 1px solid #ffdb00; border-left: 1px solid #ffdb00; padding-top: 15px;
+										padding-bottom: 15px; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; text-align: center; mso-border-alt: none; 
+										word-break: keep-all;">
+                                                                                    <span style="padding-left:50px;padding-right:50px;font-size:16px;display:inline-block;letter-spacing:1px;">
+										<span style="font-size: 16px; line-height: 2; word-break: break-word; mso-line-height-alt: 32px; color:#363636;">
+										<!-- 2. BUTTON COPY HERE -->
+											<strong> VIEW TICKET </strong>
+											</span></span>
+                                                                                </a>
+                                                                                <!--[if mso]></center></v:textbox></v:roundrect></td></tr></table><![endif]-->
+                                                                            </div>
+                                                                        </div>
+                                                                        <!-- additionally added -->
+                                                                    </div>
+                                                                    <!-- additionally added -->
+                                                                    <!--[if (!mso)&(!IE)]><!-->
+                                                                </div>
+                                                                <!--<![endif]-->
+                                                            </div>
+                                                        </div>
+                                                        <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+                                                        <!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+                                                    </div>
+                                                </div>
+
+                                                <!--[if mso]>
+ 	        <div style="font-size:1px;line-height:30px">&nbsp;</div>
+ 	 <![endif]-->
+                                            </div>
+
+                                            <!-- To increase the spacing/padding situation at the BOTTOM of your image increase the line-height number below  -->
+                                            <div style="font-size:1px;line-height:40px">&nbsp;</div>
+
+                                        </td>
+                                    </tr>
+  <!-- ~~~~~~~~~ BUTTON BLOCK Container ENDS  ~~~~~~~~~~-->   
+
+      
+    <!--[if mso]>
+    </td></tr>
+    </table>
+    <![endif]-->
+	</tbody>
+      </table> 
+  </center> 
+  
+        <!-- ~~~~~~~~~ QR BLOCK BLUE Container Ends ~~~~~~~~~~-->     
+<!-- ~~~~~~~~~OUTBOUND TRIP  Brightline+ Begins CONDITIONALLY RENDERED  ~~~~~~~~~~--> 
+	 	{% if event.return_pickup_shared_ride_details %} 
+ 	
+ 	 
+<tr> <td> 
+<table cellpadding="0" cellspacing="0" border="0" class="block-container" width="690"> 
+
+    <tbody><tr><td>
+ 	 <!-- To increase the spacing/padding situation at the BOTTOM of your text increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:60px">&nbsp;</div>
+ <table cellpadding="0" cellspacing="0" border="0" align="left" width="120" class="reduce-icon"> 
+ <tbody><tr>
+ <td><img style="" src="https://storage.googleapis.com/us1-app-storage/91953024-a777-11eb-9054-7a74f13130f5/media/original/37dcc09a-4d37-11ec-bf85-0a4040fe0e1d">
+     	</td>
+    </tr>
+</tbody></table>
+
+   <table cellpadding="0" cellspacing="0" border="0" align="center" width="570"> 
+      <tbody>
+  
+     <tr>
+		<td style="padding-left:0;">
+			  <table cellpadding="0" cellspacing="0" border="0" width="570"> 
+			  
+	 <tbody><tr>
+		<td>
+  		<div style="color:#363636;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:1.5;
+		  padding:0;">
+		<div class="txtTinyMce-wrapper">
+			<h2 style="font-size: 30px; line-height: 1.5; font-family:Helvetica, Arial, sans-serif;
+			color: #363636; mso-line-height-alt: 28x;margin:0; font-weight:700;background: linear-gradient(to top,#ffdb00 18px,transparent 18px);
+			display:table-cell;" class="trip-time"> 
+		<a style="color:#363636 !important;">Brightline+ Pick - up </a> 
+			</h2>
+			<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;" class="trip-date">
+				<a style="color:#363636 !important;font-weight:400 !important;"> {{context.journey.events.310783069._gobrightline.rideAppDetails.return.sharedRidePickup.tripDateString}} </a> 
+				</p>
+			<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;"> 	<span class="passenger-total">{{context.journey.events.310783069._gobrightline.rideAppDetails.return.sharedRidePickup.numberOfPassengers}} passenger </span></p>
+				<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 700;mso-line-height-alt: 21px;font-style:italic; text-transform:uppercase;"> 	{{context.journey.events.310783069._gobrightline.rideAppDetails.return.sharedRidePickup.rideType}} </p>
+		 </div>
+	</div>
+			 <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:40px">&nbsp;</div>
+    			  	</td>
+    			  	
+			  </tr>
+			 </tbody></table>
+		</td>
+	</tr>
+	
+	<tr><td>
+	<!-- ~~~~~~~~~OUTBOUND TRIP  BRIGHTLINE+ PICKUP ARRIVAL/DEPARTURE DETAILS BEGINS  ~~~~~~~~~~--> 
+
+	 <table cellpadding="0" cellspacing="0" border="0" width="570" class="mobile"> 
+	<tbody><tr> 
+		<td width="285" style="padding-left:0;"> 
+		<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;"> ESTIMATED PICK UP TIME  </p>
+	<h4 class="mobile-dest" style="font-size: 22px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636 !important;
+	font-weight: 700;mso-line-height-alt: 32px;text-transform:capitalize;"> <a style="color:#363636 !important;font-weight:700 !important;">
+		{{context.journey.events.310783069._gobrightline.rideAppDetails.return.sharedRidePickup.pickupStation}} </a> </h4>
+
+	<p class="mobile-time" style="font-size: 26px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636 !important; text-transform:uppercase;
+	font-weight: 400;mso-line-height-alt: 32px;"> 
+	<a style="color:#363636 !important;font-weight:400 !important;"> {{context.journey.events.310783069._gobrightline.rideAppDetails.return.sharedRidePickup.pickupTimeString}}</a>
+	</p>
+		</td>
+		
+	<td style="vertical-align:middle;text-align:left;" align="center" class="car-icon-wrappr" width="140"> 
+	<img style="width:72px;" class="car-icon" src="https://storage.googleapis.com/us1-app-storage/91953024-a777-11eb-9054-7a74f13130f5/media/original/1b028950-4bfc-11ec-9fc6-9e9791f7aeed"> 
+	</td> 
+	
+	<td width="275" class="add-lp" style=""> 
+	<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;"> ESTIMATED DROP OFF TIME  </p>
+	<h4 class="mobile-dest" style="font-size: 22px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:capitalize;
+	font-weight: 700;mso-line-height-alt: 32px;">{{context.journey.events.310783069._gobrightline.rideAppDetails.return.sharedRidePickup.dropoffStation}} </h4>
+	<p class="mobile-time" style="font-size: 26px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+	font-weight: 400;mso-line-height-alt: 32px;"> 
+	<a style="color:#363636 !important;font-weight:400 !important;">{{context.journey.events.310783069._gobrightline.rideAppDetails.return.sharedRidePickup.dropoffTimeString}} </a>
+	</p>
+	</td>
+	</tr>
+	
+	<tr><td> 				 <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:40px">&nbsp;</div>
+    </td></tr>
+    
+	</tbody></table>
+	</td></tr>
+		
+ 	{% endif %}
+ 	
+ 		 	{% if event.return_pickup_private_ride_details %} 
+ 	
+ 	 
+<tr> <td> 
+<table cellpadding="0" cellspacing="0" border="0" class="block-container" width="690"> 
+
+    <tbody><tr><td>
+ 	 <!-- To increase the spacing/padding situation at the BOTTOM of your text increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:60px">&nbsp;</div>
+ <table cellpadding="0" cellspacing="0" border="0" align="left" width="120" class="reduce-icon"> 
+ <tbody><tr>
+ <td><img style="" src="https://storage.googleapis.com/us1-app-storage/91953024-a777-11eb-9054-7a74f13130f5/media/original/37dcc09a-4d37-11ec-bf85-0a4040fe0e1d">
+     	</td>
+    </tr>
+</tbody></table>
+
+   <table cellpadding="0" cellspacing="0" border="0" align="center" width="570"> 
+      <tbody>
+  
+     <tr>
+		<td style="padding-left:0;">
+			  <table cellpadding="0" cellspacing="0" border="0" width="570"> 
+			  
+	 <tbody><tr>
+		<td>
+  		<div style="color:#363636;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:1.5;
+		  padding:0;">
+		<div class="txtTinyMce-wrapper">
+			<h2 style="font-size: 30px; line-height: 1.5; font-family:Helvetica, Arial, sans-serif;
+			color: #363636; mso-line-height-alt: 28x;margin:0; font-weight:700;background: linear-gradient(to top,#ffdb00 18px,transparent 18px);
+			display:table-cell;" class="trip-time"> 
+		<a style="color:#363636 !important;">Brightline+ Pick - up </a> 
+			</h2>
+			<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;" class="trip-date">
+				<a style="color:#363636 !important;font-weight:400 !important;"> {{context.journey.events.310783069._gobrightline.rideAppDetails.return.privateRidePickup.tripDateString}} </a> 
+				</p>
+			<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;"> 	<span class="passenger-total">{{context.journey.events.310783069._gobrightline.rideAppDetails.return.privateRidePickup.numberOfPassengers}} passenger </span></p>
+				<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 700;mso-line-height-alt: 21px;font-style:italic; text-transform:uppercase;"> 	{{context.journey.events.310783069._gobrightline.rideAppDetails.return.privateRidePickup.rideType}} </p>
+		 </div>
+	</div>
+			 <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:40px">&nbsp;</div>
+    			  	</td>
+    			  	
+			  </tr>
+			 </tbody></table>
+		</td>
+	</tr>
+	
+	<tr><td>
+	<!-- ~~~~~~~~~OUTBOUND TRIP  BRIGHTLINE+ PICKUP ARRIVAL/DEPARTURE DETAILS BEGINS  ~~~~~~~~~~--> 
+
+	 <table cellpadding="0" cellspacing="0" border="0" width="570" class="mobile"> 
+	<tbody><tr> 
+		<td width="285" style="padding-left:0;"> 
+		<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;"> ESTIMATED PICK UP TIME  </p>
+	<h4 class="mobile-dest" style="font-size: 22px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636 !important;
+	font-weight: 700;mso-line-height-alt: 32px;text-transform:capitalize;"> <a style="color:#363636 !important;font-weight:700 !important;">
+		{{context.journey.events.310783069._gobrightline.rideAppDetails.return.privateRidePickup.pickupStation}} </a> </h4>
+
+	<p class="mobile-time" style="font-size: 26px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636 !important; text-transform:uppercase;
+	font-weight: 400;mso-line-height-alt: 32px;"> 
+	<a style="color:#363636 !important;font-weight:400 !important;"> {{context.journey.events.310783069._gobrightline.rideAppDetails.return.privateRidePickup.pickupTimeString}}</a>
+	</p>
+		</td>
+		
+	<td style="vertical-align:middle;text-align:left;" align="center" class="car-icon-wrappr" width="140"> 
+	<img style="width:72px;" class="car-icon" src="https://storage.googleapis.com/us1-app-storage/91953024-a777-11eb-9054-7a74f13130f5/media/original/1b028950-4bfc-11ec-9fc6-9e9791f7aeed"> 
+	</td> 
+	
+	<td width="275" class="add-lp" style=""> 
+	<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;"> ESTIMATED DROP OFF TIME  </p>
+	<h4 class="mobile-dest" style="font-size: 22px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:capitalize;
+	font-weight: 700;mso-line-height-alt: 32px;">{{context.journey.events.310783069._gobrightline.rideAppDetails.return.privateRidePickup.dropoffStation}} </h4>
+	<p class="mobile-time" style="font-size: 26px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+	font-weight: 400;mso-line-height-alt: 32px;"> 
+	<a style="color:#363636 !important;font-weight:400 !important;">{{context.journey.events.310783069._gobrightline.rideAppDetails.return.privateRidePickup.dropoffTimeString}} </a>
+	</p>
+	</td>
+	</tr>
+	
+	<tr><td> 				 <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:40px">&nbsp;</div>
+    </td></tr>
+    
+	</tbody></table>
+	</td></tr>
+		
+ 	{% endif %}
+<!-- ~~~~~~~~~ OUTBOUND TRIP BRIGHLINE+ PICKUP  ARRIVAL/DEPARTURE DETAILS ENDS  ~~~~~~~~~~--> 
+    
+          
+
+   
+   
+  
+  
+<!-- ~~~~~~~~~OUTBOUND TRIP  Brightline+ ENDS   ~~~~~~~~~~-->    
+
+
+<!-- ~~~~~~~~~RETURN TRIP  TRAIN RIDE DETAILS BEGINS ALWAYS EXISTS   ~~~~~~~~~~-->  
+
+  
+<table cellpadding="0" cellspacing="0" border="0" class="block-container" width="690"> 
+    <tbody><tr><td>
+	    <!-- To increase the spacing/padding situation at the TOP of your image increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:40px">&nbsp;</div>
+<table cellpadding="0" cellspacing="0" border="0" align="left" width="120"> 
+ <tbody><tr>
+ <td>
+ 	<img style="" src="https://storage.googleapis.com/us1-app-storage/91953024-a777-11eb-9054-7a74f13130f5/media/original/88786c72-4d58-11ec-b9f7-aacdb870c28a">
+     	</td>
+    </tr>
+</tbody></table> 
+
+	<!-- ~~~~~~~~~ RETURN TRIP - TRAIN TIMING BEGINS  ~~~~~~~~~~--> 
+   
+			  <table cellpadding="0" cellspacing="0" border="0" width="570"> 
+			  <tbody><tr>
+			  	<td>
+
+  		<div style="color:#363636;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:1.5;
+		  padding:0;">
+		<div class="txtTinyMce-wrapper">
+			<h2 style="font-size: 30px; line-height: 1.5; font-family:Helvetica, Arial, sans-serif;
+			color: #363636; mso-line-height-alt: 28x;margin:0; font-weight:700;background: linear-gradient(to top,#ffdb00 18px,transparent 18px);
+			display:table-cell;" class="trip-time"> 
+		<a style="color:#363636 !important;">	Boards {{context.journey.events.310783069._gobrightline.tripDetails.return.boardingTimeString}} </a> 
+			</h2>
+			<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;" class="trip-date">
+				<a style="color:#363636 !important;font-weight:400 !important;"> {{context.journey.events.310783069._gobrightline.tripDetails.return.tripDateString}}</a> 
+				</p>
+			<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;"> 	<span class="passenger-total">{{context.journey.events.310783069._gobrightline.tripDetails.return.numberOfPassengers}} passenger </span></p>
+		 </div>
+	</div>
+			 <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:40px">&nbsp;</div>
+    			  	</td>
+			  </tr>
+			 </tbody></table>
+
+   <table cellpadding="0" cellspacing="0" border="0" align="center" width="570"> 
+      <tbody>
+      	
+	<tr><td>
+	
+	<!-- ~~~~~~~~~ RETURN TRIP ARRIVAL/DEPARTURE DETAILS BEGINS  ~~~~~~~~~~--> 
+	 <table cellpadding="0" cellspacing="0" border="0" width="570" class="mobile"> 
+	<tbody><tr> 
+		<td width="250"> 
+	<h4 class="mobile-dest" style="font-size: 22px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:capitalize;
+	font-weight: 700;mso-line-height-alt: 32px;"> {{context.journey.events.310783069._gobrightline.tripDetails.return.fromStation}}  </h4>
+	<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+	font-weight: 400;mso-line-height-alt: 32px;"> 
+	DEPARTS
+	</p>
+	<p class="mobile-time" style="font-size: 37px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+	font-weight: 400;mso-line-height-alt: 32px;"> 
+	<a style="color:#363636 !important;font-weight:400 !important;">  {{context.journey.events.310783069._gobrightline.tripDetails.return.departureTimeString}} </a> 
+	</p>
+		</td>
+		
+	<td width="140" style="vertical-align:middle;" align="center;"> 
+	<img src="https://storage.googleapis.com/us1-app-storage/91953024-a777-11eb-9054-7a74f13130f5/media/original/457ae97a-061a-11ec-9e00-7e6d2d6d8107"> 
+	</td> 
+	
+		<td width="250" style="padding-left:15px;"> 
+	<h4 class="mobile-dest" style="font-size: 22px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:capitalize;
+	font-weight: 700;mso-line-height-alt: 32px;"> {{context.journey.events.310783069._gobrightline.tripDetails.return.toStation}} </h4>
+	<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+	font-weight: 400;mso-line-height-alt: 32px;"> 
+	Arrives
+	</p>
+	<p class="mobile-time" style="font-size: 37px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+	font-weight: 400;mso-line-height-alt: 32px;"> 
+	<a style="color:#363636 !important;font-weight:400 !important;"> {{context.journey.events.310783069._gobrightline.tripDetails.return.arrivalTimeString}} </a> 
+	</p>
+		</td>
+		
+	</tr>
+	</tbody></table>
+	</td></tr>
+		
+		
+	<tr><td>
+		<!-- ~~~~~~~~~ RETURN  TRIP  TRIP/DURATION DETAILS BEGINS   ~~~~~~~~~~--> 
+ <table cellpadding="0" cellspacing="0" border="0" align="center" width="570"> 
+	<tbody><tr> 
+	<td width="250" style=""> 
+	 <!-- To increase the spacing/padding situation at the TOP of this text block increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:40px">&nbsp;</div>
+	<p class="trip-duration" style="font-size: 16px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636;
+	font-weight: 400;mso-line-height-alt: 32px;"> <strong> Duration:</strong> {{context.journey.events.310783069._gobrightline.tripDetails.return.duration}} </p>
+	<p class="trip-class-type" style="font-size: 16px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636;
+	font-weight: 400;mso-line-height-alt: 32px;"> <strong> Class: </strong> {{context.journey.events.310783069._gobrightline.tripDetails.return.class}} </p>
+	<p class="trip-extras" style="font-size: 16px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636;
+	font-weight: 400;mso-line-height-alt: 32px;"> <strong>Extras: </strong> {{context.journey.events.310783069._gobrightline.tripDetails.return.extras}} </p>
+</td>
+
+<td width="140"> </td>
+<td width="250"> 
+	 <div style="font-size:1px;line-height:40px">&nbsp;</div>
+	<p style="margin:0;mso-line-height-alt: 32px;line-height: 1.5;"> 
+		<a href="{{context.journey.events.310783069._gobrightline.tripDetails.return.bookExtrasLink}}" style="font-size: 16px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #0D4173;
+	font-weight: 700;mso-line-height-alt: 32px;"> Book Extras </a> 
+	</p>
+	<p style="margin:0;mso-line-height-alt: 32px;line-height: 1.5;"> 
+	<a href="{{context.journey.events.310783069._gobrightline.tripDetails.return.getDirectionsLink}}" style="font-size: 16px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #0D4173;
+	font-weight: 700;mso-line-height-alt: 32px;"> Get Directions </a>
+	</p>
+
+</td>
+</tr>	
+		<!-- ~~~~~~~~~ RETURN  TRIP  TRIP/DURATION DETAILS ENDS  ~~~~~~~~~~--> 
+</tbody></table>
+</td></tr>
+
+    </tbody>
+      </table>    
+   
+   
+   
+      
+   <!-- ~~~~~~~~~ REQUIRED RETURN TRIP  TRAIN RIDE DETAILS BEGINS ALWAYS EXISTS   ~~~~~~~~~~--> 
+ 
+   
+ 	<!-- ~~~~~~~~~ RETURN TRIP BRIGHTLINE+ DROP OFF CONDITIONALLY RENDERED BEGINS  ~~~~~~~~~~-->   
+	{% if event.return_dropoff_shared_ride_details %} 
+ 	
+ 	 
+ <tr> <td> 
+<table cellpadding="0" cellspacing="0" border="0" class="block-container" width="690"> 
+<tbody><tr> <td>
+	
+ <table cellpadding="0" cellspacing="0" border="0" align="left" width="120"> 
+ <tbody><tr>
+ <td>
+  <!-- To increase the spacing/padding situation at the TOP of this text block increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:30px">&nbsp;</div>
+ 	<img style="" src="https://storage.googleapis.com/us1-app-storage/91953024-a777-11eb-9054-7a74f13130f5/media/original/8d5a1532-4d40-11ec-b37f-aacdb870c28a">
+     	</td>
+    </tr>
+</tbody></table>
+
+
+  <table cellpadding="0" cellspacing="0" border="0" width="570"> 
+  <tbody><tr>
+		<td style="padding-left:0;">
+			  <table cellpadding="0" cellspacing="0" border="0" width="570"> 
+			  
+	 <tbody><tr>
+		<td>
+	 <!-- To increase the spacing/padding situation at the TOP of this text block increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:40px">&nbsp;</div>
+  		<div style="color:#363636;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:1.5;
+		  padding:0;">
+		<div class="txtTinyMce-wrapper">
+			<h2 style="font-size: 30px; line-height: 1.5; font-family:Helvetica, Arial, sans-serif;
+			color: #363636; mso-line-height-alt: 28x;margin:0; font-weight:700;background: linear-gradient(to top,#ffdb00 18px,transparent 18px);
+			display:table-cell;" class="trip-time"> 
+		<a style="color:#363636 !important;">Brightline+ Drop-Off</a> 
+			</h2>
+			<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;" class="trip-date">
+				<a style="color:#363636 !important;font-weight:400 !important;">   {{context.journey.events.310783069._gobrightline.rideAppDetails.return.shareRideDropoff.tripDateString}}</a> 
+				</p>
+			<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;"> 	<span class="passenger-total">{{context.journey.events.310783069._gobrightline.rideAppDetails.return.shareRideDropoff.numberOfPassengers}} passenger </span></p>
+				<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 700;mso-line-height-alt: 21px;font-style:italic; text-transform:uppercase;"> 	{{context.journey.events.310783069._gobrightline.rideAppDetails.return.shareRideDropoff.rideType}} </p>
+		 </div>
+	</div>
+			 <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:40px">&nbsp;</div>
+    			  	</td>
+    			  	
+			  </tr>
+			 </tbody></table>
+		</td>
+	</tr>
+	
+	<tr><td>
+	<!-- ~~~~~~~~~ RETURN  TRIP ARRIVAL/DEPARTURE DETAILS BEGINS  ~~~~~~~~~~--> 
+	 <table cellpadding="0" cellspacing="0" border="0" width="570" class="mobile"> 
+	<tbody><tr> 
+		<td width="285" style="padding-left:0;"> 
+		<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;"> ESTIMATED PICK UP TIME  </p>
+	<h4 class="mobile-dest" style="font-size: 22px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:capitalize;
+	font-weight: 700;mso-line-height-alt: 32px;"> {{context.journey.events.310783069._gobrightline.rideAppDetails.return.shareRideDropoff.pickupStation}} </h4>
+
+	<p class="mobile-time" style="font-size: 26px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+	font-weight: 400;mso-line-height-alt: 32px;"> 
+	<a style="color:#363636 !important;font-weight:400 !important;">  {{context.journey.events.310783069._gobrightline.rideAppDetails.return.shareRideDropoff.pickupTimeString}} </a>
+	</p>
+		</td>
+		
+	<td width="130" style="vertical-align:middle;text-align:left" align="center"> 
+	<img style="width:72px;" src="https://storage.googleapis.com/us1-app-storage/91953024-a777-11eb-9054-7a74f13130f5/media/original/1b028950-4bfc-11ec-9fc6-9e9791f7aeed"> 
+	</td> 
+	
+	<td width="275" class="add-lp"> 
+	<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;"> ESTIMATED DROP OFF TIME  </p>
+	<h4 class="mobile-dest" style="font-size: 22px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:capitalize;
+	font-weight: 700;mso-line-height-alt: 32px;">  <a style="color:#363636 !important;font-weight:700 !important;"> 
+	{{context.journey.events.310783069._gobrightline.rideAppDetails.return.shareRideDropoff.dropoffStation}} </a> </h4>
+	<p class="mobile-time" style="font-size: 26px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+	font-weight: 400;mso-line-height-alt: 32px;"> 
+	<a style="color:#363636 !important;font-weight:400 !important;">{{context.journey.events.310783069._gobrightline.rideAppDetails.return.shareRideDropoff.dropoffTimeString}} </a>
+	</p>
+	</td>
+	</tr>
+	</tbody></table>
+			 <!-- To increase the spacing/padding situation at the bottom of this block increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:40px">&nbsp;</div>
+	</td>
+	</tr>
+	</tbody></table>
+	   	{% endif %}
+	   	
+	   		{% if event.return_dropoff_private_ride_details %} 
+ 	
+ 	 
+ <tr> <td> 
+<table cellpadding="0" cellspacing="0" border="0" class="block-container" width="690"> 
+<tbody><tr> <td>
+	
+ <table cellpadding="0" cellspacing="0" border="0" align="left" width="120"> 
+ <tbody><tr>
+ <td>
+  <!-- To increase the spacing/padding situation at the TOP of this text block increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:30px">&nbsp;</div>
+ 	<img style="" src="https://storage.googleapis.com/us1-app-storage/91953024-a777-11eb-9054-7a74f13130f5/media/original/8d5a1532-4d40-11ec-b37f-aacdb870c28a">
+     	</td>
+    </tr>
+</tbody></table>
+
+
+  <table cellpadding="0" cellspacing="0" border="0" width="570"> 
+  <tbody><tr>
+		<td style="padding-left:0;">
+			  <table cellpadding="0" cellspacing="0" border="0" width="570"> 
+			  
+	 <tbody><tr>
+		<td>
+	 <!-- To increase the spacing/padding situation at the TOP of this text block increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:40px">&nbsp;</div>
+  		<div style="color:#363636;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:1.5;
+		  padding:0;">
+		<div class="txtTinyMce-wrapper">
+			<h2 style="font-size: 30px; line-height: 1.5; font-family:Helvetica, Arial, sans-serif;
+			color: #363636; mso-line-height-alt: 28x;margin:0; font-weight:700;background: linear-gradient(to top,#ffdb00 18px,transparent 18px);
+			display:table-cell;" class="trip-time"> 
+		<a style="color:#363636 !important;">Brightline+ Drop-Off</a> 
+			</h2>
+			<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;" class="trip-date">
+				<a style="color:#363636 !important;font-weight:400 !important;">   {{context.journey.events.310783069._gobrightline.rideAppDetails.return.privateRideDropoff.tripDateString}}</a> 
+				</p>
+			<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;"> 	<span class="passenger-total">{{context.journey.events.310783069._gobrightline.rideAppDetails.return.privateRideDropoff.numberOfPassengers}} passenger </span></p>
+				<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 700;mso-line-height-alt: 21px;font-style:italic; text-transform:uppercase;"> 	{{context.journey.events.310783069._gobrightline.rideAppDetails.return.privateRideDropoff.rideType}} </p>
+		 </div>
+	</div>
+			 <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:40px">&nbsp;</div>
+    			  	</td>
+    			  	
+			  </tr>
+			 </tbody></table>
+		</td>
+	</tr>
+	
+	<tr><td>
+	<!-- ~~~~~~~~~ RETURN  TRIP ARRIVAL/DEPARTURE DETAILS BEGINS  ~~~~~~~~~~--> 
+	 <table cellpadding="0" cellspacing="0" border="0" width="570" class="mobile"> 
+	<tbody><tr> 
+		<td width="285" style="padding-left:0;"> 
+		<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;"> ESTIMATED PICK UP TIME  </p>
+	<h4 class="mobile-dest" style="font-size: 22px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:capitalize;
+	font-weight: 700;mso-line-height-alt: 32px;"> {{context.journey.events.310783069._gobrightline.rideAppDetails.return.privateRideDropoff.pickupStation}} </h4>
+
+	<p class="mobile-time" style="font-size: 26px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+	font-weight: 400;mso-line-height-alt: 32px;"> 
+	<a style="color:#363636 !important;font-weight:400 !important;">  {{context.journey.events.310783069._gobrightline.rideAppDetails.return.privateRideDropoff.pickupTimeString}} </a>
+	</p>
+		</td>
+		
+	<td width="130" style="vertical-align:middle;text-align:left" align="center"> 
+	<img style="width:72px;" src="https://storage.googleapis.com/us1-app-storage/91953024-a777-11eb-9054-7a74f13130f5/media/original/1b028950-4bfc-11ec-9fc6-9e9791f7aeed"> 
+	</td> 
+	
+	<td width="275" class="add-lp"> 
+	<p style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+			font-weight: 400;mso-line-height-alt: 21px;"> ESTIMATED DROP OFF TIME  </p>
+	<h4 class="mobile-dest" style="font-size: 22px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:capitalize;
+	font-weight: 700;mso-line-height-alt: 32px;">  <a style="color:#363636 !important;font-weight:700 !important;"> 
+	{{event.return_dropoff_private_ride_details[0].drop_off_station}} </a> </h4>
+	<p class="mobile-time" style="font-size: 26px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+	font-weight: 400;mso-line-height-alt: 32px;"> 
+	<a style="color:#363636 !important;font-weight:400 !important;">{{context.journey.events.310783069._gobrightline.rideAppDetails.return.privateRideDropoff.dropoffTimeString}} </a>
+	</p>
+	</td>
+	</tr>
+	</tbody></table>
+			 <!-- To increase the spacing/padding situation at the bottom of this block increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:40px">&nbsp;</div>
+	</td>
+	</tr>
+	</tbody></table>
+	   	{% endif %}
+	   	
+	   	
+     </td></tr>
+ </tbody></table>   
+  {% endif %}
+ 
+      	<!-- ~~~~~~~~~ RETURN TRIP BRIGHTLINE+ DROP OFF CONDITIONALLY RENDERED BEGINS  ~~~~~~~~~~-->   
+     
+    
+        <!-- ~~~~~~~~~ MOBILITY Brightline+ Promo BANNER  begins   ~~~~~~~~~~-->  	  
+   
+ 
+<!-- To increase the spacing/padding situation at the TOP  of this block increase the line-height number below  -->   
+	<div style="font-size:1px;line-height:60px">&nbsp;</div>
+			
+<table border="0" cellpadding="0" cellspacing="0" width="90%" align="center" style="table-layout:fixed;vertical-align:top;border-spacing:0;border-collapse:collapse;" role="presentation" valign="top">
+    <tbody>
+    	<tr> 
+
+    	
+    	<td style="width:245px;vertical-align:middle;"> 
+    	<table border="0" cellpadding="0" cellspacing="0" width="245" align="center"> 
+    		<tbody><tr>
+    			<td> 
+    		     <!-- ~~~~~~~~~ MOBILITY Brightline+ Promo BANNER  IMAGE  ~~~~~~~~~~-->  
+    			<img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/91953024-a777-11eb-9054-7a74f13130f5/App-Hand-Icon.png" style="width: 245px;">
+    		</td></tr>
+    	</tbody></table>
+    	</td>
+    	
+     <td style="width:390px;"> 
+    	<table border="0" cellpadding="0" cellspacing="0" width="390">
+    	
+    		<tbody>
+    		 <tr><td> 
+    		  <!-- ~~~~~~~~~ MOBILITY Brightline+ Promo BANNER HEADER ~~~~~~~~~~-->  
+    		<h3 style="font-family:Futura, Century Gothic, Corbel, Helvetica, 'Arial Black', sans‑serif !important; font-size:24px; color:#363636; margin:0 auto !important; text-align:left !important; line-height:1.4;">
+    		 Get to and from the <br> station with
+    		 <span class="yellowText" style="background: linear-gradient(to top,#ffdb00 15px,transparent 15px); display:inline; background-color: #ffdb0;line-height:40px;">
+    		 	Brightline+.</span> 
+    		 </h3>
+    		<!-- To increase the spacing/padding situation at the BOTTOM  of this block increase the line-height number below  -->   
+				<div style="font-size:1px;line-height:15px">&nbsp;</div>
+    		</td></tr>
+    		<tr> 
+    		<td>
+    			
+    			  <!-- ~~~~~~~~~ MOBILITY Brightline+ Promo BULLET POINT TEXT ~~~~~~~~~~--> 
+    		<table border="0" cellpadding="0" cellspacing="0" width="390">
+    			<tbody>
+    		
+    			<tr><td style="width:30px;"> 
+    			 <img src="https://storage.googleapis.com/us1-app-storage/91953024-a777-11eb-9054-7a74f13130f5/media/original/b3cdf04a-531b-11ec-8df0-8ac0b8b5fda7" style="width:20px;"> 
+    			</td>
+    			<td style="width:360px;vertical-align:middle;">
+    		 <!-- ~~~~~~~~~ MOBILITY Brightline+ Promo BULLET POINT TEXT # 2~~~~~~~~~~--> 
+    		<p style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; color: rgb(54, 54, 54); margin: 0px;">
+    			Get picked up or dropped off.
+				</p> 
+				<!-- To increase the spacing/padding situation at the BOTTOM  of this block increase the line-height number below  -->   
+				<div style="font-size:1px;line-height:17px">&nbsp;</div>
+    		</td>
+    		</tr>
+    		
+    		<tr><td style="width:30px;"> 
+    			 <img src="https://storage.googleapis.com/us1-app-storage/91953024-a777-11eb-9054-7a74f13130f5/media/original/b3cdf04a-531b-11ec-8df0-8ac0b8b5fda7" style="width:20px;"> 
+    			</td>
+    			<td style="width:360px;vertical-align:middle;">
+    		 <!-- ~~~~~~~~~ MOBILITY Brightline+ Promo BULLET POINT TEXT # 3~~~~~~~~~~--> 
+    		<p style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:16px;color:#363636;margin:0;">
+    			Enjoy professional, courteous service all the way.
+				</p> 
+				<!-- To increase the spacing/padding situation at the BOTTOM  of this block increase the line-height number below  -->   
+				<div style="font-size:1px;line-height:17px">&nbsp;</div>
+    		</td>
+    		</tr>
+    		</tbody></table>
+    		
+    	</td>
+    		</tr>
+    		
+    		               <!-- ~~~~~~~~~ BUTTON BLOCK Container BEGINS  ~~~~~~~~~~-->     
+<tr> 
+<td>
+ <div style="background-color:transparent; margin-top:15px; margin-bottom: 0px; ">
+ 	    <!--[if mso]>
+ 	        <div style="font-size:1px;line-height:30px">&nbsp;</div>
+ 	    <![endif]-->
+    <div class="block-grid " style="min-width: 320px; max-width: 640px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; Margin: 0 auto; background-color: transparent;">
+        <div style="border-collapse: collapse;display: table;width: 100%;background-color:transparent;">
+            <!--[if (mso)|(IE)]>
+            <table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center">
+            <table cellpadding="0" cellspacing="0" border="0" style="width:690px"><tr class="layout-full-width" style="background-color:transparent"><![endif]-->
+            <!--[if (mso)|(IE)]><td align="center" width="690" style="background-color:transparent;width:640px; border-top: 0px solid transparent;
+            border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top">
+            <table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding:0;"><![endif]-->
+            <div class="col num12" style="min-width: 320px; max-width: 690px; display: table-cell; vertical-align: top; width: 690px;">
+                <div class="col_cont" style="width:100% !important;">
+                    <!--[if (!mso)&(!IE)]><!-->
+                    <div style="border-top:0px solid transparent; border-left:0px solid transparent;
+                        border-bottom:0px solid transparent; border-right:0px solid transparent; padding:0">
+                        <!--<![endif]-->
+                        <div class="button-container" style="padding: 0 10px;">
+                        	
+                        	<!-- NOTE: OUTLOOK only Button , the href/url of the button NEEDS TO  BE REPLACE IN BOTH BUTTONS-->
+                            <!--[if mso]>
+                            <table width="100%" cellpadding="0" cellspacing="0" border="0"
+                            style="border-spacing: 0; border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                            <tr>
+                            <td style="padding-top: 10px;  padding-bottom: 10px;">
+                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" 
+                            href="https://www.gobrightline.com/login" 
+                            style="height:46.5pt;width:180pt;v-text-anchor:middle;" arcsize="0%" stroke="false" fillcolor="#ffdb00">
+                            <w:anchorlock/>
+                            <v:textbox inset="0,0,0,0">
+                            <center style="color:#363636; font-family:Arial, sans-serif; font-size:16px">
+                            <![endif]-->
+                            	<!-- 1. CHANGE HREF BUTTON COPY HERE -->
+                            <a href="{{context.journey.events.310783069._gobrightline.referenceLinks.manageBookingLink}}" target="_blank" class="button" style="-webkit-text-size-adjust: none; text-decoration: none; display: inline-block; color: #363636; background-color: #ffdb00;
+                                border-radius: 0px; -webkit-border-radius: 0px; -moz-border-radius: 0px; width: auto; width: auto; border-top: 1px solid #ffdb00; 
+                                border-right: 1px solid #ffdb00; border-bottom: 1px solid #ffdb00; border-left: 1px solid #ffdb00; padding-top: 12px;
+                                padding-bottom: 12px; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; text-align: center; mso-border-alt: none; 
+                                word-break: keep-all;">
+                            	<span style="padding-left:35px;padding-right:35px;font-size:16px;display:inline-block;letter-spacing:1px;">
+                            	<span style="font-size: 16px; line-height: 2; word-break: break-word; mso-line-height-alt: 32px; color:#363636;">
+                            	<!-- 2. BUTTON COPY HERE -->
+                            		<strong> ADD BRIGHTLINE+ </strong>
+                            		</span></span>
+                            	</a>
+                            <!--[if mso]></center></v:textbox></v:roundrect></td></tr></table><![endif]-->
+                        </div>
+                        <!--[if (!mso)&(!IE)]><!-->
+                    </div>
+                    <!--<![endif]-->
+                </div>
+            </div>
+            <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+            <!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+        </div>
+    </div>
+    
+   <!--[if mso]>
+ 	        <div style="font-size:1px;line-height:30px">&nbsp;</div>
+ 	 <![endif]-->
+</div>
+
+     <!-- To increase the spacing/padding situation at the BOTTOM of your image increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:20px">&nbsp;</div>
+
+      </td>
+      </tr>
+  <!-- ~~~~~~~~~ BUTTON BLOCK Container ENDS  ~~~~~~~~~~-->   
+    		
+    		</tbody>
+    		</table> 
+    </td>
+    	
+   </tr> 	
+    	
+   	</tbody> 
+   </table> 
+
+     <!-- ~~~~~~~~~ MOBILITY Bright+ Promo BANNER  ENDS  ~~~~~~~~~~-->      	
+      	
+   
+  <!-- ~~~~~~~~~ Yellow line divider  BEGINS ~~~~~~~~~~--> 
+  
+ 
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout:fixed;vertical-align:top;border-spacing:0;border-collapse:collapse;min-width:100%" role="presentation" valign="top">
+    <tbody>
+        <tr style="vertical-align:top" valign="top">
+            <td style="word-break:break-word;vertical-align:top;min-width:100%;padding-top:20px;padding-right:57px;padding-bottom:0;padding-left:57px" valign="top">
+                <table border="0" cellpadding="0" cellspacing="0" width="90%" style="table-layout:fixed;vertical-align:top;border-spacing:0;border-collapse:collapse;border-top:2px solid #ffdb00;width:90%" align="center" role="presentation" valign="top">
+                    <tbody>
+                        <tr style="vertical-align:top" valign="top">
+                            <td style="word-break:break-word;vertical-align:top" valign="top"><span></span></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+           <!-- ~~~~~~~~~ Yellow line divider  ENDS  ~~~~~~~~~~-->   
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~    TRIP RECEIPT BEGINS   ~~~~~~~~~~~~~~~~~~~--> 
+
+ 
+	<div class="txtTinyMce-wrapper">
+		 <!-- To increase the spacing/padding situation at the TOP of this header block increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:40px">&nbsp;</div>
+    
+	<h2 style="text-align:center;font-size: 26px; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	color: #363636; mso-line-height-alt: 28x;margin:0 auto;"> 
+	YOUR TRIP RECEIPT
+	</h2>
+	 <!-- To increase the spacing/padding situation at the BOTTOM of this header block increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:40px">&nbsp;</div>
+    
+      	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~    Payment date   ~~~~~~~~~~~~~~~~~~~--> 
+    <p style="text-align:center;font-size: 16px; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+			color: #363636; mso-line-height-alt: 28x;margin:0 auto; font-weight:400;"> 
+  		{{context.journey.events.310783069._gobrightline.tripDetails.updatedDatetimeString}}  </p>
+    <div style="font-size:1px;line-height:25px">&nbsp;</div>
+    </div>
+
+
+
+
+   
+   
+   <table cellpadding="0" cellspacing="0" border="0" align="center">
+   <tbody> 
+	<tr> 
+		<td> 
+	  <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~    Payment details begins   ~~~~~~~~~~~~~~~~~~~--> 
+		  <table cellpadding="0" cellspacing="0" border="0" align="center">
+  	<tbody> 
+  		<tr> 
+		  <td> 
+		  <img src="https://storage.googleapis.com/us1-app-storage/91953024-a777-11eb-9054-7a74f13130f5/media/original/076bef86-0628-11ec-867d-7e6d2d6d8107" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; display: block;">
+		  </td>
+		  <td width="20"> </td>
+		
+		<td align="left"> 
+		<p style="text-align:center;font-size: 16px; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+			color: #363636; mso-line-height-alt: 28x;margin:0 auto;">{{context.journey.events.310783069._gobrightline.paymentDetails.paymentType}}&nbsp;{{context.journey.events.310783069._gobrightline.paymentDetails.cardNumber}} </p>
+			 <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->   
+    			<div style="font-size:1px;line-height:40px">&nbsp;</div>
+		</td>
+  		</tr>
+  	</tbody> 
+  </table> 
+   <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~    Payment details ends   ~~~~~~~~~~~~~~~~~~~-->  
+ 
+  		{{#each context.journey.events.310783069._gobrightline.passengers as |passengers|}}
+ 
+    <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~   Passegenger #1 receipt details    ~~~~~~~~~~~~~~~~~~~--> 
+    <table cellpadding="0" cellspacing="0" border="0">
+  	<tbody> 	
+  	<tr> 
+	<td width="400"> 
+	<p style="font-size: 20px; margin:0; line-height: 1.5; font-family: Helvetica, Arial, sans-serif; color: #363636;
+	font-weight: 700;mso-line-height-alt: 32px;">{{passengers.firstName}} {{passengers.lastName}}</p>
+	 <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->   
+    	<div style="font-size:1px;line-height:10px">&nbsp;</div>
+	</td>
+	</tr>
+
+	<tr style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+		font-weight: 400;mso-line-height-alt: 21px;"> 
+			<td align="left">
+				FARE-USD  
+			</td>
+			<td align="right" width="115"> 
+			  ${{passengers.fare_usd}}
+			 <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->   
+    	<div style="font-size:1px;line-height:10px">&nbsp;</div>
+			</td>
+		</tr>
+		
+		<tr style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+		font-weight: 400;mso-line-height-alt: 21px;">
+			<td align="left">
+				<b>EXTRAS</b>
+			</td>
+			<td align="right"> 
+				 ${{passengers.extras_total_usd}}
+				 <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->   
+    	<div style="font-size:1px;line-height:10px">&nbsp;</div>
+			</td>
+			</tr>
+			                   
+
+
+                                                                </tbody>
+                                                            </table>
+	
+ {{/each}}
+  
+        	{% if event.departure_pickup_private_ride_details	 %} 
+
+                                                            <table cellpadding="0" cellspacing="0" border="0">
+                                                                <tbody>
+                                                                    <tr style="font-size: 22px; margin:0; line-height: 3.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636;
+		font-weight: 700;mso-line-height-alt: 32px;">
+                                                                        <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->
+
+                                                                        <td align="left" width="450">
+                                                                            Private Ride
+                                                                        </td>
+                                                                        <td align="right">
+                                                                            ${{context.journey.events.310783069._gobrightline.rideAppDetails.departure.privateRidePickup.basePrice}}
+                                                                        </td>
+
+
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                            <table cellpadding="0" cellspacing="0" border="0">
+                                                                <tbody>
+                                                                    <tr style="font-size: 16px; margin:0; line-height: 1.8; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636;
+		font-weight: 300;mso-line-height-alt: 32px;">
+                                                                        <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->
+
+                                                                        <td align="left" width="450">
+                                                                            For {% for passengers_detail in event.departure_pickup_private_ride_details[0].passengers_details %} {{passengers_detail["first_name"]}} {% endfor %}
+                                                                        </td>
+                                                                        <td align="right">
+                                                                               ${{context.journey.events.310783069._gobrightline.rideAppDetails.departure.privateRidePickup.basePrice}} per vehicle
+                                                                        </td>
+
+
+                                                                    </tr>
+
+                                                                    <tr style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+															font-weight: 400;mso-line-height-alt: 21px;">
+                                                                        <td align="left">
+                                                                            OUTBOUND MOBILITY FIRST MILE <br> {{context.journey.events.310783069._gobrightline.rideAppDetails.departure.privateRidePickup.Departure.pickupPrivateRideDestination}}
+                                                                            <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->
+                                                                            <div style="font-size:1px;line-height:10px">&nbsp;</div>
+                                                                        </td>
+
+                                                                    </tr>
+
+                                                                </tbody>
+                                                            </table>
+                                                            
+                                                            {% endif %}
+                                                             
+                                              	{% if event.departure_dropoff_private_ride_details	 %}            
+                                                            <table cellpadding="0" cellspacing="0" border="0">
+                                                                <tbody>
+                                                                    <tr style="font-size: 22px; margin:0; line-height: 3.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636;
+		font-weight: 700;mso-line-height-alt: 32px;">
+                                                                        <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->
+
+                                                                        <td align="left" width="450">
+                                                                            Private Ride
+                                                                        </td>
+                                                                        <td align="right">
+                                                                            ${{context.journey.events.310783069._gobrightline.rideAppDetails.departure.privateRideDropoff.basePrice}} 
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                            <table cellpadding="0" cellspacing="0" border="0">
+                                                                <tbody>
+                                                                    <tr style="font-size: 16px; margin:0; line-height: 1.8; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636;
+		font-weight: 300;mso-line-height-alt: 32px;">
+                                                                        <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->
+
+                                                                        <td align="left" width="450">
+                                                                               For {% for passengers_detail in event.departure_dropoff_private_ride_details[0].passengers_details %} {{passengers_detail["first_name"]}} {% endfor %}
+                                                                        </td>
+                                                                        <td align="right">
+                                                                            ${{context.journey.events.310783069._gobrightline.rideAppDetails.departure.privateRideDropoff.basePrice}} per vehicle
+                                                                        </td>
+
+
+                                                                    </tr>
+
+                                                                    <tr style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+															font-weight: 400;mso-line-height-alt: 21px;">
+                                                                        <td align="left">
+                                                                            OUTBOUND MOBILITY LAST MILE <br> {{context.journey.events.310783069._gobrightline.rideAppDetails.departure.privateRideDropoff.Departure.dropoffPrivateRideDestination}} 
+                                                                            <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->
+                                                                            <div style="font-size:1px;line-height:10px">&nbsp;</div>
+                                                                        </td>
+                                                                            </tr>
+
+                                                                </tbody>
+                                                            </table>
+                        {% endif %}                      
+                                                                                    
+                    	{% if event.departure_pickup_shared_ride_details %}                                                     
+                                                                        <table cellpadding="0" cellspacing="0" border="0">
+                                                                            <tbody>
+                                                                                <tr style="font-size: 22px; margin:0; line-height: 3.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636;
+			font-weight: 700;mso-line-height-alt: 32px;">
+                                                                                    <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->
+
+                                                                                    <td align="left" width="450">
+                                                                                        Shared Ride
+                                                                                    </td>
+                                                                                    <td align="right">
+                                                                                           ${{context.journey.events.310783069._gobrightline.rideAppDetails.departure.sharedRidePickup.basePrice}}
+                                                                                    </td>
+
+
+                                                                                </tr>
+                                                                            </tbody>
+                                                                        </table>
+                                                                        <table cellpadding="0" cellspacing="0" border="0">
+                                                                            <tbody>
+                                                                                <tr style="font-size: 16px; margin:0; line-height: 1.8; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636;
+			font-weight: 300;mso-line-height-alt: 32px;">
+                                                                                    <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->
+
+                                                                                    <td align="left" width="450">
+                                                                                        For {% for passengers_detail in event.departure_pickup_shared_ride_details[0].passengers_details %} {{passengers_detail["first_name"]}} {% endfor %}
+                                                                                    </td>
+                                                                                    <td align="right">
+                                                                                          ${{context.journey.events.310783069._gobrightline.rideAppDetails.departure.sharedRidePickup.perPassenger}} per passenger
+                                                                                    </td>
+
+
+                                                                                </tr>
+
+                                                                                <tr style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+																font-weight: 400;mso-line-height-alt: 21px;">
+                                                                                    <td align="left">
+                                                                                        OUTBOUND MOBILITY FIRST MILE <br>  {{context.journey.events.310783069._gobrightline.rideAppDetails.departure.sharedRidePickup.Departure.pickupSharedRideDestination}}
+                                                                                        <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->
+                                                                                        <div style="font-size:1px;line-height:10px">&nbsp;</div>
+                                                                                    </td>
+
+                                                                                </tr>
+
+                                                                            </tbody>
+                                                                          </table>
+                                                                          
+                                                                            {% endif %}  
+                                                                                                                                         
+ 
+                                                                          
+                                                    	{% if event.departure_dropoff_shared_ride_details %}                     
+                                                                        
+                                                                        <table cellpadding="0" cellspacing="0" border="0">
+                                                                            <tbody>
+                                                                                <tr style="font-size: 22px; margin:0; line-height: 3.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636;
+			font-weight: 700;mso-line-height-alt: 32px;">
+                                                                                    <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->
+
+                                                                                    <td align="left" width="450">
+                                                                                        Shared Ride
+                                                                                    </td>
+                                                                                    <td align="right">
+                                                                                       ${{context.journey.events.310783069._gobrightline.rideAppDetails.departure.sharedRideDropoff.basePrice}}
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </tbody>
+                                                                        </table>
+                                                                        <table cellpadding="0" cellspacing="0" border="0">
+                                                                            <tbody>
+                                                                                <tr style="font-size: 16px; margin:0; line-height: 1.8; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636;
+			font-weight: 300;mso-line-height-alt: 32px;">
+                                                                                    <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->
+
+                                                                                    <td align="left" width="450">
+                                                                                           For {% for passengers_detail in event.departure_dropoff_shared_ride_details[0].passengers_details %} {{passengers_detail["first_name"]}} {% endfor %}
+                                                                                    </td>
+                                                                                    <td align="right">
+                                                                                        ${{context.journey.events.310783069._gobrightline.rideAppDetails.departure.sharedRideDropoff.perPassenger}} per passenger
+                                                                                    </td>
+
+
+                                                                                </tr>
+                                                                            </tbody>
+                                                                        </table>
+                                                                        <tr style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+																font-weight: 400;mso-line-height-alt: 21px;">
+                                                                            <td align="left">
+                                                                                OUTBOUND MOBILITY LAST MILE <br>  {{context.journey.events.310783069._gobrightline.rideAppDetails.departure.sharedRideDropoff.Departure.dropoffSharedRideDestination}}
+                                                                                <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->
+                                                                                <div style="font-size:1px;line-height:10px">&nbsp;</div>
+                                                                            </td>
+                                                                        </tr>
+
+                                                               
+                                                            {% endif %}
+                                                            
+                                                        
+       
+        	{% if event.return_pickup_private_ride_details	 %} 
+
+                                                            <table cellpadding="0" cellspacing="0" border="0">
+                                                                <tbody>
+                                                                    <tr style="font-size: 22px; margin:0; line-height: 3.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636;
+		font-weight: 700;mso-line-height-alt: 32px;">
+                                                                        <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->
+
+                                                                        <td align="left" width="450">
+                                                                            Private Ride
+                                                                        </td>
+                                                                        <td align="right">
+                                                                            ${{context.journey.events.310783069._gobrightline.rideAppDetails.return.privateRidePickup.basePrice}} 
+                                                                        </td>
+
+
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                            <table cellpadding="0" cellspacing="0" border="0">
+                                                                <tbody>
+                                                                    <tr style="font-size: 16px; margin:0; line-height: 1.8; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636;
+		font-weight: 300;mso-line-height-alt: 32px;">
+                                                                        <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->
+
+                                                                        <td align="left" width="450">
+                                                                             For {% for passengers_detail in event.return_pickup_private_ride_details[0].passengers_details %} {{passengers_detail["first_name"]}} {% endfor %}
+                                                                        </td>
+                                                                        <td align="right">
+                                                                               ${{context.journey.events.310783069._gobrightline.rideAppDetails.return.privateRidePickup.basePrice}} per vehicle
+                                                                        </td>
+
+
+                                                                    </tr>
+
+                                                                    <tr style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+															font-weight: 400;mso-line-height-alt: 21px;">
+                                                                        <td align="left">
+                                                                            RETURN MOBILITY FIRST MILE <br> {{context.journey.events.310783069._gobrightline.rideAppDetails.return.privateRidePickup.return.pickupPrivateRideDestination}}
+                                                                            <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->
+                                                                            <div style="font-size:1px;line-height:10px">&nbsp;</div>
+                                                                        </td>
+
+                                                                    </tr>
+
+                                                                </tbody>
+                                                            </table>
+                                                            
+                                                            
+                                                            {% endif %}
+                                                                                                                         
+
+                                              	{% if event.return_dropoff_private_ride_details	 %}            
+                                                            <table cellpadding="0" cellspacing="0" border="0">
+                                                                <tbody>
+                                                                    <tr style="font-size: 22px; margin:0; line-height: 3.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636;
+		font-weight: 700;mso-line-height-alt: 32px;">
+                                                                        <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->
+
+                                                                        <td align="left" width="450">
+                                                                            Private Ride
+                                                                        </td>
+                                                                        <td align="right">
+                                                                            ${{context.journey.events.310783069._gobrightline.rideAppDetails.return.privateRideDropoff.basePrice}}
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                            <table cellpadding="0" cellspacing="0" border="0">
+                                                                <tbody>
+                                                                    <tr style="font-size: 16px; margin:0; line-height: 1.8; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636;
+		font-weight: 300;mso-line-height-alt: 32px;">
+                                                                        <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->
+
+                                                                        <td align="left" width="450">
+                                                                             For {% for passengers_detail in event.return_dropoff_private_ride_details[0].passengers_details %} {{passengers_detail["first_name"]}} {% endfor %}
+                                                                        </td>
+                                                                        <td align="right">
+                                                                            ${{context.journey.events.310783069._gobrightline.rideAppDetails.return.privateRideDropoff.basePrice}} per vehicle
+                                                                        </td>
+
+
+                                                                    </tr>
+
+                                                                    <tr style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+															font-weight: 400;mso-line-height-alt: 21px;">
+                                                                        <td align="left">
+                                                                            RETURN MOBILITY LAST MILE <br> {{context.journey.events.310783069._gobrightline.rideAppDetails.return.privateRideDropoff.return.dropoffPrivateRideDestination}}
+                                                                            <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->
+                                                                            <div style="font-size:1px;line-height:10px">&nbsp;</div>
+                                                                        </td>
+                                                                             </tr>
+
+                                                                </tbody>
+                                                            </table>
+                                                                        
+                        {% endif %}          
+                                                                                     
+ 
+                    	{% if event.return_pickup_shared_ride_details %}                                                     
+                                                                        <table cellpadding="0" cellspacing="0" border="0">
+                                                                            <tbody>
+                                                                                <tr style="font-size: 22px; margin:0; line-height: 3.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636;
+			font-weight: 700;mso-line-height-alt: 32px;">
+                                                                                    <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->
+
+                                                                                    <td align="left" width="450">
+                                                                                        Shared Ride
+                                                                                    </td>
+                                                                                    <td align="right">
+                                                                                           ${{context.journey.events.310783069._gobrightline.rideAppDetails.return.sharedRidePickup.basePrice}}
+                                                                                    </td>
+
+
+                                                                                </tr>
+                                                                            </tbody>
+                                                                        </table>
+                                                                        <table cellpadding="0" cellspacing="0" border="0">
+                                                                            <tbody>
+                                                                                <tr style="font-size: 16px; margin:0; line-height: 1.8; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636;
+			font-weight: 300;mso-line-height-alt: 32px;">
+                                                                                    <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->
+
+                                                                                    <td align="left" width="450">
+                                                                                         For {% for passengers_detail in event.return_pickup_shared_ride_details[0].passengers_details %} {{passengers_detail["first_name"]}} {% endfor %}
+                                                                                    </td>
+                                                                                    <td align="right">
+                                                                                           ${{context.journey.events.310783069._gobrightline.rideAppDetails.return.sharedRidePickup.perPassenger}}  per passenger
+                                                                                    </td>
+
+
+                                                                                </tr>
+
+                                                                                <tr style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+																font-weight: 400;mso-line-height-alt: 21px;">
+                                                                                    <td align="left">
+                                                                                        RETURN MOBILITY FIRST MILE <br>  {{context.journey.events.310783069._gobrightline.rideAppDetails.return.sharedRidePickup.return.pickupSharedRideDestination}}
+                                                                                        <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->
+                                                                                        <div style="font-size:1px;line-height:10px">&nbsp;</div>
+                                                                                    </td>
+
+                                                                                </tr>
+
+                                                                            </tbody>
+                                                                          </table>
+                                                                            {% endif %}  
+                                                                            
+                                                    	{% if event.return_dropoff_shared_ride_details %}                     
+                                                                        
+                                                                        <table cellpadding="0" cellspacing="0" border="0">
+                                                                            <tbody>
+                                                                                <tr style="font-size: 22px; margin:0; line-height: 3.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636;
+			font-weight: 700;mso-line-height-alt: 32px;">
+                                                                                    <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->
+
+                                                                                    <td align="left" width="450">
+                                                                                        Shared Ride
+                                                                                    </td>
+                                                                                    <td align="right">
+                                                                                       ${{context.journey.events.310783069._gobrightline.rideAppDetails.return.shareRideDropoff.basePrice}}
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </tbody>
+                                                                        </table>
+                                                                        <table cellpadding="0" cellspacing="0" border="0">
+                                                                            <tbody>
+                                                                                <tr style="font-size: 16px; margin:0; line-height: 1.8; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636;
+			font-weight: 300;mso-line-height-alt: 32px;">
+                                                                                    <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->
+
+                                                                                    <td align="left" width="450">
+                                                                                        For {% for passengers_detail in event.return_dropoff_shared_ride_details[0].passengers_details %} {{passengers_detail["first_name"]}} {% endfor %}
+                                                                                    </td>
+                                                                                    <td align="right">
+                                                                                        ${{context.journey.events.310783069._gobrightline.rideAppDetails.return.shareRideDropoff.perPassenger}} per passenger
+                                                                                    </td>
+                                                                                </tr>
+                                                                           
+                                                                        <tr style="font-size: 16px; margin:0; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+																font-weight: 400;mso-line-height-alt: 21px;">
+                                                                            <td align="left">
+                                                                                RETURN MOBILITY LAST MILE <br>  {{context.journey.events.310783069._gobrightline.rideAppDetails.return.shareRideDropoff.return.dropoffSharedRideDestination}}
+                                                                                <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->
+                                                                                <div style="font-size:1px;line-height:10px">&nbsp;</div>
+                                                                            </td>
+                                                                        </tr>
+
+
+                                                                </tbody>
+                                                            </table>
+                                                            
+                                                       {% endif %}     
+                                             </td>
+                                             </tr>
+                                                 </tbody>
+                                                            </table>                                                      
+   <div style="font-size:1px;line-height:30px">&nbsp;</div><div style="font-size:1px;line-height:30px">&nbsp;</div><table cellpadding="0" cellspacing="0" border="0">
+   		
+  
+                          
+                                                            </table><table cellpadding="0" cellspacing="0" border="0">
+                                                                <tbody>
+                                                                    <tr style="font-size: 28px; margin:0; line-height: 1.8; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; text-transform:uppercase;
+														font-weight: 700;mso-line-height-alt: 21px;">
+                                                                        <td align="left" width="550"> TICKET TOTAL </td>
+                                                                        <td align="right"> ${{context.journey.events.310783069._gobrightline.paymentDetails.paymentTotal}}
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                            <table cellpadding="0" cellspacing="0" border="0">
+                                                                <tbody>
+                                                                    <tr style="font-size: 28px; margin:0; line-height: 1.8; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636;
+		font-weight: 700;mso-line-height-alt: 32px;">
+                                                                        <!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->
+
+                                                                        <td align="left" width="550">
+                                                                            Total Difference Amount
+
+                                                                        </td>
+                                                                        <td align="right">
+                                                                            ${{context.journey.events.310783069._gobrightline.tripDetails.fareDifference}}
+                                                                        </td>
+
+
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                              
+                                            
+		
+	
+   
+   
+     <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~    Passegenger #1 detail ends     ~~~~~~~~~~~~~~~~~~~--> 
+
+ 
+  
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~     TRIP RECEIPT ENDS    ~~~~~~~~~~~~~~~~~~~~~~~~-->   
+    
+     
+     
+     
+   
+
+		  <!-- ~~~~~~~~~ HELP/Question container  begins   ~~~~~~~~~~-->  
+		
+			 
+	<!-- To increase the spacing/padding situation at the BOTTOM of this text block increase the line-height number below  -->   
+	<div style="font-size:1px;line-height:60px">&nbsp;</div>
+				<table border="0" cellpadding="0" cellspacing="0" width="620" align="center" role="presentation" style="background-color:#EAEAEA; border-radius:4px;">
+					
+				<!-- Left column - 2 part column - ROW 1  -->
+					<tbody><tr>
+					
+						<!-- 	Padding/Spacing Column	 -->		
+							 <td class="" width="50" style="font-size:0pt;line-height:0pt;text-align:left"> </td>
+						<td style="padding:0px; line-height: 24px; text-align:center;vertical-align:middle; " width="125">
+								<a href="https://www.gobrightline.com/help-center"> 
+						    <img class="center autowidth" align="center" border="0" width="58" alt="question mark graphic" src="https://storage.googleapis.com/us1-app-storage/91953024-a777-11eb-9054-7a74f13130f5/media/original/d729fc84-08a0-11ec-8b3b-262653f0069b" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0;
+        						width: 58px; max-width:58px;display: block; text-align:center; margin: 0 auto;">
+        						</a> 
+        					</td>	
+        		<!-- Right column - 2 part column - ROW 1  -->
+        				<td width="425"> 
+        				<a href="https://www.gobrightline.com/help-center"> 
+     	<!-- To increase the spacing/padding situation at the TOP of this text block increase the line-height number below  -->   
+				<div style="font-size:1px;line-height:25px">&nbsp;</div>
+        				<h3 style="font-size: 16px; margin:0 0 10px 0;line-height: 1.5; 
+        				font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; 
+							font-weight: 700;mso-line-height-alt: 21px;text-transform:uppercase;"> GOT ANY QUESTIONS? </h3> 
+        			<p style=" font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;  margin: 0 auto 25px; text-align: left;
+        			font-size: 15px; line-height: 1.5; word-break: break-word; mso-line-height-alt: 23px;"> 
+        			Visit our Help Center for more info.
+							</p> 
+						</a> 
+							</td>
+				
+			<!-- 	Padding/Spacing Column	 -->		
+	<td class="" width="50" style="font-size:0pt;line-height:0pt;text-align:left"> </td>
+			
+					</tr>
+		
+				</tbody></table>
+		
+		  <!-- ~~~~~~~~~~~~~~~ HELP/Question container ENDS ~~~~~~   ~~~~~~~~~~-->  
+
+   	<table border="0" cellpadding="0" cellspacing="0">    
+     <tbody><tr>
+      	<td>
+   <!-- To increase the spacing/padding situation at the TOP of this APP block increase the line-height number below  -->   
+    <div style="font-size:1px;line-height:60px">&nbsp;</div>  
+             <!-- ~~~~~~~~~ Download app banner BEGINS  ~~~~~~~~~~-->  
+      		<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="620" align="center" bgcolor="#EAF3F2" style="background-color: #EAF3F2; ">
+			<tbody><tr>
+				<td align="center">
+					<table border="0" class="mobile" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="color: #000000; font-family: sans-serif; font-size: 18px; line-height: 36px; margin: 0; padding: 0;">
+						<tbody><tr> 
+							<td align="center">
+								<!-- Download app headers  -->
+									<table border="0" cellpadding="0" cellspacing="0" role="presentation">
+									<tbody><tr>
+								<td style="padding: 0; line-height: 24px;" width="390"> 
+							  <!-- To increase the spacing/padding situation at the TOP of this header block increase the line-height number below  -->   
+							  <div style="font-size:1px;line-height:50px">&nbsp;</div>
+							  <div class="heading-wrapper">
+							 <h1 class="mobile-header" style="font-family:Futura, Century Gothic, Corbel, Helvetica, 'Arial Black', sans‑serif; font-size:40px;
+							 color:#363636;font-weight:700;text-align:left; margin:0 0 25px 0;"> Make it easy. </h1>
+							 <h1 class="mobile-header" style="font-family:Futura, Century Gothic, Corbel, Helvetica, 'Arial Black', sans‑serif; font-size:40px;
+							 color:#363636;font-weight:500;text-align:left;margin-bottom:0; margin:30px 0;"> Download our app.</h1>
+							</div>		
+						
+					<!-- To increase the spacing/padding situation at the bottom of this header increase the line-height number below  -->   
+							  <!--<div style="font-size:1px;line-height:15px">&nbsp;</div>	-->
+            
+							</td>
+							</tr>
+							</tbody></table>
+						</td></tr>	
+
+						
+				<!-- ~~~~~~~~~ Two Columns - Download APP buttons ~~~~~~~~~~~~~ -->
+	
+					<tr>
+							<td align="center">
+								<table border="0" cellpadding="0" cellspacing="0" role="presentation">
+									<tbody><tr>
+
+											<!-- Left column -->
+		
+								<td style="padding: 0 5px; line-height: 24px;">
+								<a href="https://apps.apple.com/us/app/brightline/id1570969062?utm_campaign=transactional-email&amp;utm_source=exponea-b2c&amp;utm_medium=email&amp;utm_content=apple-download-button" target="_blank" style="">
+								<img class="center autowidth mobile-button" align="center" border="0" alt="apple download button" src="https://storage.googleapis.com/us1-app-storage/91953024-a777-11eb-9054-7a74f13130f5/media/original/889b86a6-f8af-11eb-bae0-aabb88f5e92b" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0;
+        						width: 175px; max-width: 175px;display: block; text-align:center; margin: 0 auto;">	
+        						</a>
+        				<!-- To increase the spacing/padding situation at the BOTTOM of this banner app block increase the line-height number below  -->   
+							  <div style="font-size:1px;line-height:50px">&nbsp;</div>	
+								</td>
+							<!-- 	Padding/Spacing Column	 -->		
+							 <td class="" width="20" style="font-size:0pt;line-height:0pt;text-align:left"> </td>
+								
+											<!-- Right column -->
+													<td style="padding: 0 5px; line-height: 24px;">
+													<a href="https://play.google.com/store/apps/details?id=com.brightline.blapp&amp;utm_campaign=transactional-email&amp;utm_source=exponea-b2c&amp;utm_medium=email&amp;utm_content=android-download-button" target="_blank" style="">
+														<img class="center autowidth mobile-button" align="center" border="0" alt="google play download button" src="https://storage.googleapis.com/us1-app-storage/91953024-a777-11eb-9054-7a74f13130f5/media/original/890cd3ec-f8af-11eb-96be-aabb88f5e92b" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0;
+        												width: 175px; max-width: 175px;display: block; text-align:center; margin: 0 auto;">	
+        												</a>
+        				<!-- To increase the spacing/padding situation at the BOTTOM of this banner app block increase the line-height number below  -->   
+							  <div style="font-size:1px;line-height:50px">&nbsp;</div>	
+													</td>
+
+									</tr>
+								</tbody></table>
+
+						
+							</td>
+						</tr>
+	
+						</tbody></table>
+				</td>
+			</tr>
+		
+	
+			</tbody></table>
+   
+            <!-- ~~~~~~~~~ Download app banner ENDS   ~~~~~~~~~~-->  
+            
+         	<!-- To increase the spacing/padding situation at the TOP of this TEXT AREA block increase the line-height number below  -->   
+			 <div style="font-size:1px;line-height:20px">&nbsp;</div>	
+            
+                <!-- ~~~~~~~~~ TEXT AREA Container BEGINS ~~~~~~~~~~-->       
+      
+   <!--[if mso]>
+   <table width="100%" cellpadding="0" cellspacing="0" border="0" align="center">
+   <tr>
+   <td style="padding:0; font-family: Helvetica, Arial, sans-serif"><![endif]-->
+  <div style="color:#363636;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:1.5;
+  padding:0; width:600px;margin: 0 auto;">
+<div class="txtTinyMce-wrapper" style="font-size: 10px; line-height: 1.5; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #363636; mso-line-height-alt: 21px;">
+    <p style="padding: 0 30px; max-width:600px;margin: 0 auto; text-align: left; font-size: 10px; line-height: 1.3; word-break: break-word; mso-line-height-alt: 23px; margin-top: 0; margin-bottom: 0;">
+        Apple and the Apple logo trademarks of Apple Inc., registered in the U.S. and other countries and regions. 
+
+	 	App Store is a service mark of Apple Inc. Google Play and the Google Play logo are trademarks of Google LLC.
+	</p> 
+    </div>
+</div>
+      
+<!--[if mso]></td></tr></table><![endif]-->
+    <!-- ~~~~~~~~~ TEXT AREA Container ENDS  ~~~~~~~~~~--> 
+      <!-- To increase the spacing/padding situation at the BOTTOM of this TEXT AREA block increase the line-height number below  -->   
+		 <div style="font-size:1px;line-height:40px">&nbsp;</div>
+     		
+      	</td>
+      </tr>
+      
+ 
+  <!-- ~~~~~~~~~ Yellow line divider  BEGINS ~~~~~~~~~~--> 
+ <tr> 
+ <td>
+<table border="0" cellpadding="0" cellspacing="0" width="640" align="center" style="table-layout:fixed;vertical-align:top;border-spacing:0;border-collapse:collapse;min-width:640px;" role="presentation" valign="top">
+    <tbody>
+        <tr style="vertical-align:top" valign="top">
+            <td style="word-break:break-word;vertical-align:top;min-width:100%;padding-top:20px;padding-right:57px;padding-bottom:35px;padding-left:57px" valign="top">
+                <table border="0" cellpadding="0" cellspacing="0" width="90%" style="table-layout:fixed;vertical-align:top;border-spacing:0;border-collapse:collapse;border-top:2px solid #ffdb00;width:90%" align="center" role="presentation" valign="top">
+                    <tbody>
+                        <tr style="vertical-align:top" valign="top">
+                            <td style="word-break:break-word;vertical-align:top" valign="top"><span></span></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</td>
+</tr>
+           <!-- ~~~~~~~~~ Yellow line divider  ENDS  ~~~~~~~~~~-->   
+  </tbody></table>         
+
+      <!-- ~~~~~~~~~ SOCIAL ICON BEGINS  ~~~~~~~~~~-->      
+      <table class="social_icons" align="center" cellpadding="0" cellspacing="0" width="100%" role="presentation" style="table-layout: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" valign="top">
+      	<tbody>
+      	
+      		<tr style="vertical-align: top;" valign="top">
+      		<td style="word-break: break-word; vertical-align: top; padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px;" valign="top">
+					<center style="">
+			
+				<table class="social_table" align="center" cellpadding="0" cellspacing="0" role="presentation" style="table-layout: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse; mso-table-tspace: 0; mso-table-rspace: 0; mso-table-bspace: 0; mso-table-lspace: 0;" valign="top">
+					<tbody>
+						<tr style="vertical-align: top; display: inline-block; text-align: center;" align="center" valign="top">
+						<td align="center" style="word-break: break-word; vertical-align: top; padding-bottom: 0; padding-right: 2.5px; padding-left: 2.5px;" valign="top">
+					<!-- ~~~~~~~~~ INSTAGRAM SOCIAL  ~~~~~~~~~~-->  
+						<a href="https://www.instagram.com/gobrightline/" target="_blank">
+							<img width="32" height="32" src="https://d2fi4ri5dhpqd1.cloudfront.net/public/resources/social-networks-icon-sets/t-outline-circle-color/instagram@2x.png" alt="Instagram" title="Instagram" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; display: block;">
+							</a>
+						</td>
+					
+					<td style="word-break: break-word; vertical-align: top; padding-bottom: 0; padding-right: 2.5px; padding-left: 2.5px;" valign="top">
+		    		<!-- ~~~~~~~~~ TWITTER SOCIAL  ~~~~~~~~~~-->   
+						<a href="https://twitter.com/GoBrightline" target="_blank">
+						<img width="32" height="32" src="https://d2fi4ri5dhpqd1.cloudfront.net/public/resources/social-networks-icon-sets/t-outline-circle-color/twitter@2x.png" alt="Twitter" title="Twitter" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; display: block;">
+						</a>
+					</td>
+					<td style="word-break: break-word; vertical-align: top; padding-bottom: 0; padding-right: 2.5px; padding-left: 2.5px;" valign="top">
+				    <!-- ~~~~~~~~~ FACEBOOK SOCIAL  ~~~~~~~~~~-->   
+						<a href="https://www.facebook.com/GoBrightline/" target="_blank">
+							<img width="32" height="32" src="https://d2fi4ri5dhpqd1.cloudfront.net/public/resources/social-networks-icon-sets/t-outline-circle-color/facebook@2x.png" alt="Facebook" title="Facebook" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; display: block;">
+						</a>
+					</td>
+			<td style="word-break: break-word; vertical-align: top; padding-bottom: 0; padding-right: 2.5px; padding-left: 2.5px;" valign="top">
+				 <!-- ~~~~~~~~~ YOUTUBE SOCIAL  ~~~~~~~~~~-->   
+				<a href="https://www.youtube.com/c/GoBrightline" target="_blank">
+					<img width="32" height="32" src="https://d2fi4ri5dhpqd1.cloudfront.net/public/resources/social-networks-icon-sets/t-outline-circle-color/youtube@2x.png" alt="YouTube" title="YouTube" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; display: block;">
+					</a>
+			</td>
+				</tr>
+				</tbody>
+				</table>
+			</center>
+		</td>
+		</tr>
+
+		</tbody>
+
+		</table>
+            <!-- ~~~~~~~~~ SOCIAL ICON ENDS  ~~~~~~~~~~-->    
+            
+            
+    <!-- ~~~~~~~~~ COPYRIGHT AND PRIVACY POLICY TEXT BEGINS  ~~~~~~~~~~-->        
+      <div style="color:#363636;font-family:Helvetica Neue, Helvetica, Arial, sans-serif;line-height:1.8;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;">
+		<div class="txtTinyMce-wrapper" style="font-size: 14px; line-height: 1.8; color: #363636; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; mso-line-height-alt: 25px;">
+			<p style="margin: 0px; font-size: 12px; line-height: 1.8; word-break: break-word; text-align: center;">
+			{% set year = time | from_timestamp('%Y')  %}
+				<span style="font-size: 12px;">Copyright © {{ year }} Brightline. All Rights Reserved.&nbsp;</span>
+				<br>
+				<span style="font-size: 12px;">See our&nbsp;<a href="https://www.gobrightline.com/privacy-policy" target="_blank" rel="noopener" style="color: #094273; font-weight: 700;">Privacy Policy</a>&nbsp;and&nbsp;<a href="https://www.gobrightline.com/terms-service" target="_blank" style="color: #094273; font-weight: 700;" rel="noopener">Terms of Service</a>.</span></p><p style="margin: 0; font-size: 12px; line-height: 1.8; word-break: break-word; text-align: center; mso-line-height-alt: 32px;">
+					<a style="color: #363636 !important; font-weight: 400 !important;">350 NW 1st Avenue, Suite 200 Miami, FL 33128</a> </p>
+			<p></p>
+			</div>
+		</div>
+      <!-- ~~~~~~~~~ COPYRIGHT AND PRIVACY POLICY TEXT ENDS  ~~~~~~~~~~-->  
+      
+      
+   <!-- ~~~~~~~~~ BRIGHTLINE LOGO BEGINS  ~~~~~~~~~~-->  
+      <div class="img-container center fixedwidth" align="center" style="padding-right: 0px;padding-left: 0px;">
+			<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0">
+			<tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center">
+			<![endif]-->
+				<div style="font-size:1px;line-height:20px">&nbsp;</div>
+				<a href="https://www.gobrightline.com/" target="_blank" style="outline:none" tabindex="-1">
+					<img class="center fixedwidth" align="center" border="0" src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/91953024-a777-11eb-9054-7a74f13130f5/PNG%20-%20Brightline%20Wordmark%20-%20Charcoal.png" alt="brightline logo" title="brightline logo" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 189px; max-width: 100%; display: block;" width="189">
+					</a>
+		
+				<div style="font-size:1px;line-height:20px">&nbsp;</div>
+			<!--[if mso]></td></tr></table><![endif]-->
+			</div>
+   <!-- ~~~~~~~~~ BRIGHTLINE LOGO ENDS ~~~~~~~~~~-->  
+      
+      
+      
+       <!-- ~~~~~~~~~ UNSUBSCRIBE TEXT BLOCK BEGINS ~~~~~~~~~~-->  
+      
+      <div style="color:#555555;font-family:Helvetica Neue, Helvetica, Arial, sans-serif;line-height:1.2;padding-top:10px;padding-right:20px;padding-bottom:50px;padding-left:20px;">
+			<div class="txtTinyMce-wrapper" style="font-size: 14px; line-height: 1.2; color: #555555; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; mso-line-height-alt: 17px;">
+				<p style="margin: 0; font-size: 12px; line-height: 1.2; word-break: break-word; text-align: center; mso-line-height-alt: 14px; margin-top: 0; margin-bottom: 0;">
+					<span style="font-size: 12px;"> We hate saying goodbye, but if you need to you can
+					<a href="#" target="_blank" style="color: #094273; font-weight: 700;" rel="noopener">
+						unsubscribe.</a>
+					</span>
+				</p>
+			</div>
+		</div>
+     <!-- ~~~~~~~~~ UNSUBSCRIBE TEXT BLOCK ENDS  ~~~~~~~~~~-->   
+     
+         <!-- ~~~~~~~~~~   0 Height  IMAGE Container Begins - this forces gmail to renders desktop sized emails on mobile - DO NOT REMOVE    ~~~~~~~~~~~~~~~~  -->     
+
+<table cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+    <td height="1" class="hide" style="min-width:640px; font-size:0px;line-height:0px;">
+        <img height="1" src="spacer.gif" style="min-width: 640px; text-decoration: none; border: none; -ms-interpolation-mode: bicubic;">
+    </td>
+</tr>	
+</tbody></table>
+ <!-- ~~~~~~~~~ 0 height  IMAGE  Container Ends ~~~~~~~~~~--> 
+     
+      
+      
+    
+  
+ 
+</center>
+ <!--Table Parent Container Ends  -->
+</body></html>
